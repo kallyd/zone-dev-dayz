@@ -1,0 +1,4347 @@
+﻿[
+  {
+    "FileName": "filelist.json",
+    "Size": 140687,
+    "MD5": "7e2b68d6c394f5e2d0af3d79c5624f0e"
+  },
+  {
+    "FileName": "Mods\\@AC-Mod-Pack\\meta.cpp",
+    "Size": 99,
+    "MD5": "9c4501dbe8de38bf93401b4369b3e2f4"
+  },
+  {
+    "FileName": "Mods\\@AC-Mod-Pack\\mod.cpp",
+    "Size": 567,
+    "MD5": "7c830310abf18c7becfeb072bdcd4cba"
+  },
+  {
+    "FileName": "Mods\\@AC-Mod-Pack\\Addons\\AC-DZ.pbo",
+    "Size": 133768193,
+    "MD5": "78c3fc8a18b4a5330ec8ccbd1893f1b9"
+  },
+  {
+    "FileName": "Mods\\@AC-Mod-Pack\\Addons\\AC-DZ.pbo.Andrew_Caires.bisign",
+    "Size": 566,
+    "MD5": "13591a40649af096d9e2859e81a6d06b"
+  },
+  {
+    "FileName": "Mods\\@AC-Mod-Pack\\Addons\\AC-Graphics.pbo",
+    "Size": 776353,
+    "MD5": "a0e90ab575f1c6e73f0d34ae358fb11d"
+  },
+  {
+    "FileName": "Mods\\@AC-Mod-Pack\\Addons\\AC-Graphics.pbo.Andrew_Caires.bisign",
+    "Size": 566,
+    "MD5": "cb8467ef22f8d4796708db8d461d5db4"
+  },
+  {
+    "FileName": "Mods\\@AC-Mod-Pack\\Addons\\AC-GUI.pbo",
+    "Size": 941195,
+    "MD5": "930eac70524ac0065d5a3c2b0e2246cd"
+  },
+  {
+    "FileName": "Mods\\@AC-Mod-Pack\\Addons\\AC-GUI.pbo.Andrew_Caires.bisign",
+    "Size": 566,
+    "MD5": "1752243f2216bdbf77046a0cb1951447"
+  },
+  {
+    "FileName": "Mods\\@AC-Mod-Pack\\Addons\\AC-Scripts.pbo",
+    "Size": 453404,
+    "MD5": "bdb464298006ffe4e61ed5be80f39458"
+  },
+  {
+    "FileName": "Mods\\@AC-Mod-Pack\\Addons\\AC-Scripts.pbo.Andrew_Caires.bisign",
+    "Size": 566,
+    "MD5": "9ae1bc589581137ed3f7d5d2f0253952"
+  },
+  {
+    "FileName": "Mods\\@AC-Mod-Pack\\keys\\Andrew_Caires.bikey",
+    "Size": 166,
+    "MD5": "b73ab36406ac74b53aaf3de98446ab98"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\credits.txt",
+    "Size": 2665,
+    "MD5": "6385b9123b1bdac9d3cdb42d7b5acfd2"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\meta.cpp",
+    "Size": 104,
+    "MD5": "0ab0939838634a6fcb8de1f18f140654"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\mod.cpp",
+    "Size": 1106,
+    "MD5": "9068b844c6b7c659df04c3cda34019b3"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\README.txt",
+    "Size": 978,
+    "MD5": "8e3db2e9384d38cbbad1dbfc6670810d"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\addons\\BaseBuildingPlus.pbo",
+    "Size": 319511900,
+    "MD5": "a3f992ea95f5bc434d0729a34538b66e"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\addons\\BaseBuildingPlus.pbo.BBP.bisign",
+    "Size": 556,
+    "MD5": "693099a6681e22f97561ae872d34949e"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\addons\\BBP_keybind.pbo",
+    "Size": 4774,
+    "MD5": "40b35e58e75de159d0d101a2fa1b1d4c"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\addons\\BBP_keybind.pbo.BBP.bisign",
+    "Size": 556,
+    "MD5": "bdbb103b2766b97de956fa47504553ee"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\info\\2.0_classnames.txt",
+    "Size": 1505,
+    "MD5": "484c8bdc51470f2dce0b2e142f76fa50"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\info\\BBP_types.xml",
+    "Size": 19345,
+    "MD5": "2e281e9d2a4e259d7e67c2e784eb176c"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\info\\BreachingCharge\\BBP DOOR ONLY RAID.json",
+    "Size": 9090,
+    "MD5": "c13c1ac9e560d1cd033be56653d54553"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\info\\BreachingCharge\\Check_Breachingcharge_mod_for_more_examples.txt",
+    "Size": 102,
+    "MD5": "10c0554e0db37dc24264c338f51b9834"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\info\\BreachingCharge\\vanilla dayz + BBP - breachingcharge.json",
+    "Size": 9086,
+    "MD5": "54203b384d64845af3e7b74ad5464038"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\info\\Enable_Vanilla_Dmg\\READ_ME.txt",
+    "Size": 1119,
+    "MD5": "5a45e49aa7c64ced34a255454c0fbf77"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\info\\Enable_Vanilla_Dmg\\already_packed_pbos_if_you_want_default_values\\READ_ME.txt",
+    "Size": 179,
+    "MD5": "0c79f2b7566435369d385f5ecf3c56ec"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\info\\Enable_Vanilla_Dmg\\BBP_Vanilla_Dmg\\config.cpp",
+    "Size": 24118,
+    "MD5": "ad5fbcc226b144d3f30fe359704ab042"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\info\\Enable_Vanilla_Dmg\\BBP_Vanilla_Dmg_Doors\\config.cpp",
+    "Size": 15677,
+    "MD5": "055751a7138f6ada03f58971934c0746"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\info\\Livonia\\BBP_Settings.json",
+    "Size": 3428,
+    "MD5": "c530034b1aa3b707875b7f4a8542ca7b"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\info\\Livonia\\README.txt",
+    "Size": 269,
+    "MD5": "dde4fd3bb08c8a3cead387272d34c7ec"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\info\\Namalsk\\BBP_Settings.json",
+    "Size": 3905,
+    "MD5": "c1749ff1df0ceef77e2087e012958746"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\info\\Namalsk\\README.txt",
+    "Size": 435,
+    "MD5": "77fab560276e72ab3486f68acdfab029"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\info\\Server Config Example\\BaseBuildingPlus\\BBP_Settings.json",
+    "Size": 4111,
+    "MD5": "4a49124837d2c943960cabfd143b24e0"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\info\\Server Config Example\\BaseBuildingPlus\\bbp_settings_explanation.txt",
+    "Size": 3824,
+    "MD5": "32b42fcbfed26517739c9e1cbfc126a6"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\keys\\BBP.bikey",
+    "Size": 156,
+    "MD5": "3a0e60eaa54b9bd2d239bcbe3723599c"
+  },
+  {
+    "FileName": "Mods\\@CF\\meta.cpp",
+    "Size": 90,
+    "MD5": "041cf6f8a7f02326dfb49d2df03b22c1"
+  },
+  {
+    "FileName": "Mods\\@CF\\mod.cpp",
+    "Size": 539,
+    "MD5": "76ea704e214527f9a0e447bd836ab1bc"
+  },
+  {
+    "FileName": "Mods\\@CF\\addons\\gui.pbo",
+    "Size": 96852,
+    "MD5": "512fb1fc8cba1d49060099739fb713eb"
+  },
+  {
+    "FileName": "Mods\\@CF\\addons\\gui.pbo.Jacob_Mango_V3.bisign",
+    "Size": 567,
+    "MD5": "63c41cbf22f6762c0b7b23e12407f2d5"
+  },
+  {
+    "FileName": "Mods\\@CF\\addons\\legacy.pbo",
+    "Size": 484,
+    "MD5": "f4cf1cc0305381e7565a58198266f9f0"
+  },
+  {
+    "FileName": "Mods\\@CF\\addons\\legacy.pbo.Jacob_Mango_V3.bisign",
+    "Size": 567,
+    "MD5": "98183c363ef78fdc049e1f89c337012b"
+  },
+  {
+    "FileName": "Mods\\@CF\\addons\\scripts.pbo",
+    "Size": 391316,
+    "MD5": "5e8487da09dd25a65fc31be76ad3c400"
+  },
+  {
+    "FileName": "Mods\\@CF\\addons\\scripts.pbo.Jacob_Mango_V3.bisign",
+    "Size": 567,
+    "MD5": "e1818f6f36eace999be5a41f13833d38"
+  },
+  {
+    "FileName": "Mods\\@CF\\keys\\Jacob_Mango_V3.bikey",
+    "Size": 167,
+    "MD5": "5d1b66407ee86a70fe9caa6a196c0e01"
+  },
+  {
+    "FileName": "Mods\\@CodeLock\\meta.cpp",
+    "Size": 97,
+    "MD5": "40ede411a38d9955ac6d4655d3301a0d"
+  },
+  {
+    "FileName": "Mods\\@CodeLock\\mod.cpp",
+    "Size": 568,
+    "MD5": "0ae346658b94ccf587ad7ff34f0bad56"
+  },
+  {
+    "FileName": "Mods\\@CodeLock\\Addons\\CodeLock.pbo",
+    "Size": 10380959,
+    "MD5": "81a9a2993a07a9d84334054290d943ab"
+  },
+  {
+    "FileName": "Mods\\@CodeLock\\Addons\\CodeLock.pbo.CodeLockv3.bisign",
+    "Size": 563,
+    "MD5": "f4f63bbd3a69677702a052bd9b1bd512"
+  },
+  {
+    "FileName": "Mods\\@CodeLock\\Keys\\CodeLockv3.bikey",
+    "Size": 163,
+    "MD5": "243255fa6935522773ec5622566f7452"
+  },
+  {
+    "FileName": "Mods\\@Community-Online-Tools\\meta.cpp",
+    "Size": 110,
+    "MD5": "3eb8f53926f39de43da2d308ef2ffca8"
+  },
+  {
+    "FileName": "Mods\\@Community-Online-Tools\\mod.cpp",
+    "Size": 991,
+    "MD5": "b1205dc1b7101fd32c33a3d0527d7ae5"
+  },
+  {
+    "FileName": "Mods\\@Community-Online-Tools\\Addons\\GUI.pbo",
+    "Size": 315880,
+    "MD5": "5a6a5f4dd8fcead852ece466fb576c65"
+  },
+  {
+    "FileName": "Mods\\@Community-Online-Tools\\Addons\\GUI.pbo.Jacob_Mango_V3.bisign",
+    "Size": 567,
+    "MD5": "56e5bbaa1becc91783f99a0c1ec7b4fb"
+  },
+  {
+    "FileName": "Mods\\@Community-Online-Tools\\Addons\\languagecore.pbo",
+    "Size": 62139,
+    "MD5": "63ccc653c3d3ad1afaf484c835deabfb"
+  },
+  {
+    "FileName": "Mods\\@Community-Online-Tools\\Addons\\languagecore.pbo.Jacob_Mango_V3.bisign",
+    "Size": 567,
+    "MD5": "5d04e8d3ab2597f5b0153149f3348f2d"
+  },
+  {
+    "FileName": "Mods\\@Community-Online-Tools\\Addons\\Objects_Debug.pbo",
+    "Size": 3111,
+    "MD5": "68a5d77ed63bbbc9d9799342f6456c65"
+  },
+  {
+    "FileName": "Mods\\@Community-Online-Tools\\Addons\\Objects_Debug.pbo.Jacob_Mango_V3.bisign",
+    "Size": 567,
+    "MD5": "fb5c0d2f95de0fb54608555a6ae090ca"
+  },
+  {
+    "FileName": "Mods\\@Community-Online-Tools\\Addons\\Scripts.pbo",
+    "Size": 958988,
+    "MD5": "5459315864c0c943524c6ebab9a9db64"
+  },
+  {
+    "FileName": "Mods\\@Community-Online-Tools\\Addons\\Scripts.pbo.Jacob_Mango_V3.bisign",
+    "Size": 567,
+    "MD5": "dae45993b73b32536f8d94897223f63d"
+  },
+  {
+    "FileName": "Mods\\@Community-Online-Tools\\Keys\\Jacob_Mango_V3.bikey",
+    "Size": 167,
+    "MD5": "5d1b66407ee86a70fe9caa6a196c0e01"
+  },
+  {
+    "FileName": "Mods\\@DabsFramework\\meta.cpp",
+    "Size": 102,
+    "MD5": "b09b1edb4b8fcb870bc87795a2948355"
+  },
+  {
+    "FileName": "Mods\\@DabsFramework\\addons\\GUI.pbo",
+    "Size": 33431692,
+    "MD5": "6596d26ba9acbbfe24133abe76604086"
+  },
+  {
+    "FileName": "Mods\\@DabsFramework\\addons\\GUI.pbo.dab.bisign",
+    "Size": 556,
+    "MD5": "860b55ab7cd506786c5ab59f5f825ddd"
+  },
+  {
+    "FileName": "Mods\\@DabsFramework\\addons\\Scripts.pbo",
+    "Size": 663295,
+    "MD5": "1cea0d05be69f4b6ef9b3a8492eaf23a"
+  },
+  {
+    "FileName": "Mods\\@DabsFramework\\addons\\Scripts.pbo.dab.bisign",
+    "Size": 556,
+    "MD5": "b77150c508b53d16d110363fab451159"
+  },
+  {
+    "FileName": "Mods\\@DabsFramework\\keys\\dab.bikey",
+    "Size": 156,
+    "MD5": "eabd6b6d064f1adad6dbfd17231602c0"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\meta.cpp",
+    "Size": 109,
+    "MD5": "17ebc3f530196b01437df2e2ab6adc09"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\mod.cpp",
+    "Size": 454,
+    "MD5": "f24270968402d2f85a6517eca5d87d8e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_ai_preload.pbo",
+    "Size": 1748,
+    "MD5": "f6a71c73d584935b0bb25beccefaa5ab"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_ai_preload.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "4b36fdc674c0cae696ac6288d201b7d9"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_basebuilding_preload.pbo",
+    "Size": 8235,
+    "MD5": "7dc93e00a4adb1ac6033d6df364e1769"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_basebuilding_preload.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "18eea851e0302fdcf5fc63d658b163ec"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_book_preload.pbo",
+    "Size": 2024,
+    "MD5": "f988b1227d2131f7184996764aae0c0d"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_book_preload.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "39dc4165bbfd7abefe2a91685462ef6d"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_chat_preload.pbo",
+    "Size": 1949,
+    "MD5": "d9ceb412ac05e33e693d3e1818e60328"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_chat_preload.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "85c2582e3ecbfbb393b8692a05047aa6"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_core_preload.pbo",
+    "Size": 3867,
+    "MD5": "0b3aafe6091184b34b254091d95eeb4d"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_core_preload.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "17204a10efb96e3b0845c6b8a4e581c3"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_garage_preload.pbo",
+    "Size": 1854,
+    "MD5": "f00e5ddd96e658a8cfb9383f00f5ac24"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_garage_preload.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "f4e373246dc6fb2951425362571f477f"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_groups_preload.pbo",
+    "Size": 2119,
+    "MD5": "e319bc01426e7ccbc4a23c8325579f92"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_groups_preload.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "31a7fcd9170dec5b267c91cb9c86e22e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_hardline_preload.pbo",
+    "Size": 1950,
+    "MD5": "fc52a779f5edebc0ffd0d5022eb137e5"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_hardline_preload.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "2312de4b3c3f41ebbea9d9dc17d74296"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_killfeed_preload.pbo",
+    "Size": 1877,
+    "MD5": "7919785878e7e882278d3edbc8b91b0e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_killfeed_preload.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "9c943d0d639e4f78301015fe9daabe73"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_mapassets_preload.pbo",
+    "Size": 2618,
+    "MD5": "a51904107bbf9256ab351623980232e5"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_mapassets_preload.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "bfb56856461134c76e35d68c226eb26a"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_market_preload.pbo",
+    "Size": 2010,
+    "MD5": "b7a832a89b6cd0e07a8689a09f0612ac"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_market_preload.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "2dabff103a167bc0d23e2291f729c5cf"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_missions_preload.pbo",
+    "Size": 2848,
+    "MD5": "96ef98ae39ad6f886971eaf11ad45ede"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_missions_preload.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "e8facfb9da7f86ccf01fcf77d1f7ffbe"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_modstorage_preload.pbo",
+    "Size": 2086,
+    "MD5": "ba9eb71c72d28c6dafbadc4f632e87d1"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_modstorage_preload.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "cd46f3d59a3c9293f77d9b21bd7c8993"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_nametags_preload.pbo",
+    "Size": 2072,
+    "MD5": "cb17267271d78674161767a6ba533c77"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_nametags_preload.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "df0087205e4dc044d9c6de74feeefd91"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_navigation_preload.pbo",
+    "Size": 2418,
+    "MD5": "ed88dda71f4e57b66a86a14a9ac324cf"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_navigation_preload.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "9f62bc8747676e6d5791396a00ec4689"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_p2pmarket_preload.pbo",
+    "Size": 1969,
+    "MD5": "36a1e3a08f0986893b9e20a25345ffde"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_p2pmarket_preload.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "76ec50c60bc9a820dadff28763fa1345"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_personalstorage_preload.pbo",
+    "Size": 2137,
+    "MD5": "4fdca01df113cd83cfc6b5ceaf910060"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_personalstorage_preload.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "ebdb624afc82c538f8a84f85eed2667c"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_preload.pbo",
+    "Size": 2012,
+    "MD5": "f2e916b592c9a236729fddb36211d506"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_preload.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "0cb537f147f4cd6ce3f661c096ed1ecf"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_quests_preload.pbo",
+    "Size": 2134,
+    "MD5": "18cf7b70af5297d4d2ba672c61f08a93"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_quests_preload.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "5f5ec3110920407b7493da564795cf08"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_spawnselection_preload.pbo",
+    "Size": 3122,
+    "MD5": "ae83f59fd0cf3b4e1699a478cf71ae8d"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_spawnselection_preload.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "66c84b503098597395aa24e20fe5db68"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_vehicles_preload.pbo",
+    "Size": 9101,
+    "MD5": "5b707f42ca11e73b0da3d95a4fc399ac"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_vehicles_preload.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "a6ba4ae49105501c40c67ce5f000f43c"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_weapons_preload.pbo",
+    "Size": 2040,
+    "MD5": "0e89311c82bb116784aa13924858354e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\0_weapons_preload.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "14f655cf5dad9a2a70b1d8b7f5901e4f"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\ai_animations.pbo",
+    "Size": 667542,
+    "MD5": "098f64001da3dd1c21648c6f5b0485dc"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\ai_animations.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "e424e86337bd648159dc3c8cd48cf2fe"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\ai_debugweapons.pbo",
+    "Size": 3921,
+    "MD5": "961ebe5395ada418a26dc6c1125102d4"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\ai_debugweapons.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "26bb3f3d51b6f94d4aa9a0b0ad060dbb"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\ai_gear.pbo",
+    "Size": 2378133,
+    "MD5": "677f871f8633cc48c13e80c307f14cbe"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\ai_gear.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "634ebc0ac6500f1864fef2023f847e9b"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\ai_gui.pbo",
+    "Size": 11255,
+    "MD5": "f9ec3d69ee931dfd68ffdd79172bbfb3"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\ai_gui.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "52980692869040d93b09eab6d3667188"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\ai_scripts.pbo",
+    "Size": 2910543,
+    "MD5": "ab1d2e1b4224f3be255c0218bceae2fa"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\ai_scripts.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "c3bd46a09ff4d023cc4af43ec54609fa"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\ai_sounds.pbo",
+    "Size": 88741,
+    "MD5": "fe40887ac14b82c0b8a6effe95e82ea5"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\ai_sounds.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "6b77717eb704ad02c22a6058fe06fc2e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\animals_lepus_europaeus.pbo",
+    "Size": 2313559,
+    "MD5": "b2d8c4462442a7005f909fb1259e8c9d"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\animals_lepus_europaeus.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "8f0a154b3cb80f59828110efd76b5398"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\animations_animals.pbo",
+    "Size": 756690,
+    "MD5": "55983ef6be23c90c0770f362da32ad79"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\animations_animals.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "a7ff39c55a8ba4eb6108d9daab152c14"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\basebuilding_gui.pbo",
+    "Size": 1502163,
+    "MD5": "eb81000c0df483f2e124145e210bff74"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\basebuilding_gui.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "f1b605ed0c5d25dec4ed8b42b27ece45"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\basebuilding_objects_explosives.pbo",
+    "Size": 1033,
+    "MD5": "99d8d67a56c815c1b89faf8950a60902"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\basebuilding_objects_explosives.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "16dadd60b7329ac66daa5d3654ebc1e1"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\basebuilding_scripts.pbo",
+    "Size": 784434,
+    "MD5": "1d8c9eb67970947fea5fbf368718be06"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\basebuilding_scripts.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "a7e979e44f406516d71008e9c90ed623"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\book_gui.pbo",
+    "Size": 44634981,
+    "MD5": "827e37c8816525883d086fe16eda59cf"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\book_gui.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "cff029665038d4a18fd04ed9b2786ae5"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\book_scripts.pbo",
+    "Size": 261820,
+    "MD5": "86c3d8d39da3928a1bbb68d6ab3125ca"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\book_scripts.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "5fa39afd0c76466f5cad755ec1be57d4"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\chat_gui.pbo",
+    "Size": 21979,
+    "MD5": "75a2eecc73f5aed6a72a497aa4157ec9"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\chat_gui.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "4ed5e07aa734bd89aa8e0236b928b008"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\chat_scripts.pbo",
+    "Size": 61962,
+    "MD5": "454d265f9453dc899e012eaecee680ed"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\chat_scripts.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "79a5b2f05415c624bb6bc4db04b7df61"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\core_gui.pbo",
+    "Size": 9839031,
+    "MD5": "00126425d2ef8e85fa7a097cea93d4f8"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\core_gui.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "9bb875a8cd9c3bc823bac011106c11f5"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\core_objects_bases.pbo",
+    "Size": 454,
+    "MD5": "4913af6fa9172ef8e4d861f58b2a85ec"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\core_objects_bases.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "08ed084995d6768cd6522035ab438897"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\core_objects_briefcase.pbo",
+    "Size": 8981444,
+    "MD5": "46ebf5532ab4cd80ee70845387282d4b"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\core_objects_briefcase.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "12aad5f81763215bc61ac7fff07b0086"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\core_objects_circuitboard.pbo",
+    "Size": 9560288,
+    "MD5": "0d133061f5d303f58fd63130e81fdb8b"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\core_objects_circuitboard.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "47254e8c58a26c025a639abb26dc2fd3"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\core_objects_currencies.pbo",
+    "Size": 8301505,
+    "MD5": "da4e8301c1d19a87f230102410dcb3ad"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\core_objects_currencies.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "d370bb44db4bb7af0c11fd2d8db0f127"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\core_objects_navmeshcarvers.pbo",
+    "Size": 2089,
+    "MD5": "5c96723c3dd79ec6d8de016680245892"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\core_objects_navmeshcarvers.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "5c6d9dd9ea225db589542b0c27b6bd99"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\core_objects_temporaryownedcontainer.pbo",
+    "Size": 1514,
+    "MD5": "e61b78576cfc4330d689f79f81451e92"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\core_objects_temporaryownedcontainer.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "89e9756bb2dd3b0e12279d205cb45a65"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\core_scripts.pbo",
+    "Size": 1377097,
+    "MD5": "307255a94e47ca3c0776dc95fe5003f9"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\core_scripts.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "13dd3b3af1418341f085735e8180595f"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\core_stub.pbo",
+    "Size": 595,
+    "MD5": "d494aeae534e4f97792fa07726d05218"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\core_stub.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "e39d6a3e2741f2f80fa0da9accbdbb68"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\data_characters_armbands.pbo",
+    "Size": 2971,
+    "MD5": "6872b4c93f71b952bc5fe41b3b360b88"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\data_characters_armbands.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "e85c615683443e297494ef5a65cb85df"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\data_characters_backpacks.pbo",
+    "Size": 2946051,
+    "MD5": "f2f8ea50428206b9c4d534bcdfce4ff6"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\data_characters_backpacks.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "2ea723ca7244d8ff3bb712f2ab40a040"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\data_characters_gloves.pbo",
+    "Size": 1915623,
+    "MD5": "40c1ac4d07cc0b1afc14a05cf9718847"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\data_characters_gloves.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "d6548081297e6e54f0c137484694b87d"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\data_characters_headgear.pbo",
+    "Size": 12549231,
+    "MD5": "94b88d4a83ac0e5200656c8dc50d53f8"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\data_characters_headgear.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "ac1b990f527f7a12d7e904ad2f2caa58"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\data_characters_tops.pbo",
+    "Size": 5807587,
+    "MD5": "7d2e65e4394f028cc65e1fb7aa9e3fd0"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\data_characters_tops.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "68e5b27166dee5d8ccf60278d88b0d06"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\definetest.pbo",
+    "Size": 4365,
+    "MD5": "75d14ecb23ddbce028549dc826e02c31"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\definetest.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "d06924613c649e168b6256dd422a22ae"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\dta_core.pbo",
+    "Size": 18205,
+    "MD5": "a45aed6bcc301b124e9b102df0ba6a56"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\dta_core.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "3a76c56286542122b0f496f0cc990373"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\dta_game.pbo",
+    "Size": 1719,
+    "MD5": "f656deb90903c6bf9ebba0f985cce6c1"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\dta_game.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "3daaceac857a746dbeea774c62fc62b9"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\dta_world.pbo",
+    "Size": 28131,
+    "MD5": "74b167fd3284fad4601fc3fa906b9d84"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\dta_world.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "bed1e87406ea7a50f0de829758125504"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\garage_gui.pbo",
+    "Size": 27118,
+    "MD5": "bd87adbdcde6a9049d0e1f5f435642e1"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\garage_gui.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "b6805bc52804726a0b26c8a170370757"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\garage_objects.pbo",
+    "Size": 1759,
+    "MD5": "019b36e1df9f8874f9f39851aba91d6c"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\garage_objects.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "7a5fae6dca6c496c637d9a03cd85367b"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\garage_scripts.pbo",
+    "Size": 103135,
+    "MD5": "c65610c63478254f2fcb625220223ffb"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\garage_scripts.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "b5eb0fccd099d9b41f8cf73fdd1ec3a1"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\groups_gui.pbo",
+    "Size": 69374,
+    "MD5": "5cbbc7e0b145716911d3edf716185d17"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\groups_gui.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "a16213edc4f68973423010f08e08a5e4"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\groups_scripts.pbo",
+    "Size": 234434,
+    "MD5": "7dcf5bee28756ebca63a95cc4ec1cb45"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\groups_scripts.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "33ae306608e2c4585ee55fcdb817871e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\gui.pbo",
+    "Size": 18083263,
+    "MD5": "cca9dd39f347ddbe0282a7897f510170"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\gui.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "71c78b482451d4374396e11273561d0e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\hardline_gui.pbo",
+    "Size": 26243,
+    "MD5": "629b9c14e861a82b55369e8bd21f9fca"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\hardline_gui.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "1854e72bff1cf2f1edcc120a8b2bffcd"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\hardline_objects_gear.pbo",
+    "Size": 3271,
+    "MD5": "45eed6b6300024eec1e4046f2c3409e3"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\hardline_objects_gear.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "488606d598cfa4872b3cd8f15fefc401"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\hardline_scripts.pbo",
+    "Size": 199449,
+    "MD5": "9583b3ea241184189c076a6670378d97"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\hardline_scripts.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "c6f5859cd97a095c0edf518825fde2f0"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_ai.pbo",
+    "Size": 7663,
+    "MD5": "5af48bd45a741832fbfcd416359ce27b"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_ai.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "5d2a85ec4a9c1f06c24bd25d33647978"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_basebuilding.pbo",
+    "Size": 165782,
+    "MD5": "dce33f25d134c099e3cc5e29cbc75b04"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_basebuilding.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "b17583fa03e79b44ed3569aa92a13c0e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_book.pbo",
+    "Size": 33952,
+    "MD5": "7dad6f7b6ea82443c0a5866e39cf3cd6"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_book.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "2781b9fd3a0874957d2283354e08865e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_chat.pbo",
+    "Size": 2357,
+    "MD5": "3fb8815f150f551d079a75daade6cc02"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_chat.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "de68c875a54bf29bd88c30de9b29c41b"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_core.pbo",
+    "Size": 163604,
+    "MD5": "b91d532301aecd3b8e161023310fbb5c"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_core.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "4e42a7eeef9efbf8a69a81759a0a6edc"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_garage.pbo",
+    "Size": 35046,
+    "MD5": "d075ff4b866961ee47764518161a1bec"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_garage.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "88cc637128f8ebd87793f01e17950a6b"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_groups.pbo",
+    "Size": 30680,
+    "MD5": "494503c64cc61f2cfaa6712caa878a66"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_groups.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "cbc75e3ff62b5d25af8e34d1465fb967"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_hardline.pbo",
+    "Size": 7857,
+    "MD5": "38f21e84cb20aad11ecf92920463c916"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_hardline.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "6100cf8796ac3283101ffe6d19d5ccee"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_main.pbo",
+    "Size": 79233,
+    "MD5": "bbff12bcde6100559865b36510ac17e1"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_main.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "5e23d1e68bf234b7afb08e989532210e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_mapassets.pbo",
+    "Size": 710,
+    "MD5": "9aeecc5bb95f984d3bc7b6e33bd00236"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_mapassets.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "d979eee90c2a450a73421e2d5d2f7051"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_market.pbo",
+    "Size": 158566,
+    "MD5": "f6e35d30718e77c7e64dcf69ffcfd6e1"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_market.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "5f712ffdb73ab95ed145881a5552d133"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_missions.pbo",
+    "Size": 11400,
+    "MD5": "f143b24467bf11659c275a3004979d2a"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_missions.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "80725e8f3b7759e2d969f71be4678f8e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_navigation.pbo",
+    "Size": 44043,
+    "MD5": "f3ce63270f9575199c992b9a296ebc8a"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_navigation.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "9b0fc826a3bea359a0ffe862ea5dacd9"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_personalstorage.pbo",
+    "Size": 16634,
+    "MD5": "6f08340a41aadc2d2dff6911e04bc79c"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_personalstorage.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "67810a9b179383e1528c6bd30c0e9c3b"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_playerlist.pbo",
+    "Size": 1716,
+    "MD5": "76e184711fd8c2beb39365d83d39ebfb"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_playerlist.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "cfd76863dd93a6c015600fdb25bd5cc7"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_quests.pbo",
+    "Size": 14273,
+    "MD5": "602c34a11ef25a33ebc2d9d272d943f4"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_quests.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "938b08badcd333fce05dfea14793524d"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_spawnselection.pbo",
+    "Size": 3216,
+    "MD5": "eb1fd7f71331363bc3b7bf9adc2b8e53"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_spawnselection.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "26892e405b8f0dd12ea7796eca86d291"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_vehicles.pbo",
+    "Size": 78577,
+    "MD5": "38feb69705226e14ab4794583342076a"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_vehicles.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "1adf2c1059d399e498b35a7f62acba52"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_weapons.pbo",
+    "Size": 137707,
+    "MD5": "544e6391ecf420e8f24e741d73e3c0fa"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\languagecore_weapons.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "5d02cce28ee408781cd40448f253c686"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\mapassets_scripts.pbo",
+    "Size": 27063,
+    "MD5": "6b8064c6e26442977d7cdb15117fe103"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\mapassets_scripts.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "f72a0173ad2aefb4d1e0241de318f8f7"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\market_gui.pbo",
+    "Size": 194288,
+    "MD5": "02986a4c8880bf6fec1d15d673842e4c"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\market_gui.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "4885309bc94fc0083a9e7394492ab265"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\market_objects.pbo",
+    "Size": 43216649,
+    "MD5": "8434e3dcaa673ef4bc6845f58a56431b"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\market_objects.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "beae8333764330984060cdc0af61f70e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\market_scripts.pbo",
+    "Size": 837665,
+    "MD5": "340234e01a02d63a543be34f7a6f2073"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\market_scripts.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "34d751c23e26f40bdb383df862a4835d"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\market_structures.pbo",
+    "Size": 50299065,
+    "MD5": "932ed2f7ced131653b488cc903c733ea"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\market_structures.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "d0b112be1b9789a631adac4628f1adc1"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\missions_scripts.pbo",
+    "Size": 269808,
+    "MD5": "d9edeb40ef96c5a03bfc6a45612c0f9d"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\missions_scripts.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "d398c3245b352fc5301035501a1515c1"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\modstorage_cf_scripts_4_world_entities.pbo",
+    "Size": 14054,
+    "MD5": "92c812acc520ef8736417fbf3f8c390c"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\modstorage_cf_scripts_4_world_entities.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "6405b27e30ad5b1f2d0ebcbb6f14d93e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\modstorage_cf_scripts_4_world_modstorage.pbo",
+    "Size": 10502,
+    "MD5": "003a73776dbb8fb91ac9dbc0d6a00d20"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\modstorage_cf_scripts_4_world_modstorage.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "9e50642b6ca62ac9217f9db5d07464b6"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\modstorage_scripts.pbo",
+    "Size": 21387,
+    "MD5": "be467144f7db0f2755a483ffc5d92ba1"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\modstorage_scripts.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "1f25896e6c4c26936f27d2443fd6ccd6"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\nametags_gui.pbo",
+    "Size": 2908,
+    "MD5": "b63108e7e28fe3bfa506d0731e12e327"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\nametags_gui.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "c38674f81ba890ca418de5d2fa4743c4"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\nametags_scripts.pbo",
+    "Size": 36167,
+    "MD5": "6afc430221c8353320b428c14bc37bc2"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\nametags_scripts.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "170445dfaba649ced0a11f774e502770"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\navigation_gui.pbo",
+    "Size": 855551,
+    "MD5": "9791ae9a702c60e198a55c2a0ebb3992"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\navigation_gui.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "09c9c6e92e20397654259e9e19127068"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\navigation_scripts.pbo",
+    "Size": 248803,
+    "MD5": "a1e36e6fc1e53fad2355b12fbed48eb2"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\navigation_scripts.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "976cb1827643193290bb01d88e504d33"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\navigation_worlds.pbo",
+    "Size": 43635,
+    "MD5": "1cc5a5cb22ce0a31d748cfa3192b6ec1"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\navigation_worlds.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "f1bd0632a7b0e938637c409897f5149f"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\notificationscheduler_scripts.pbo",
+    "Size": 11144,
+    "MD5": "6ee5a2a945c6348d778e558eabda2b0e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\notificationscheduler_scripts.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "7e7c5d8b44e5afe6033a7fb34f0e899c"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_basebuilding_data.pbo",
+    "Size": 96261426,
+    "MD5": "33907fe6375c5b0527b95c2f7eac613a"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_basebuilding_data.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "641e82023da865ffa1ea35004f013d4b"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_basebuilding_electricity.pbo",
+    "Size": 68998,
+    "MD5": "3c17c9edd00e5bb6b67d2a05e911502f"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_basebuilding_electricity.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "3805049061a4c4ad009524a199a9b185"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_basebuilding_flags.pbo",
+    "Size": 66440,
+    "MD5": "cbc0e404e8a15fd484aec052d94fe028"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_basebuilding_flags.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "4528e8e59c71be14c00c39119b5d052d"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_basebuilding_floors.pbo",
+    "Size": 232376,
+    "MD5": "ea225a5d1a8261055875c82b1f558cfc"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_basebuilding_floors.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "f8204e351475f4101ddb12888af2dc7a"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_basebuilding_items.pbo",
+    "Size": 6304580,
+    "MD5": "3b15eb4ece7e017246cf11689342f282"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_basebuilding_items.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "bce61e3f08d9b40cbf69ce6c8764eb2b"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_basebuilding_pillars.pbo",
+    "Size": 16680,
+    "MD5": "71aab04153e653d320bda89dd1457462"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_basebuilding_pillars.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "0e9a125fb204d58564009f16ccf5ddc3"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_basebuilding_ramps.pbo",
+    "Size": 88547,
+    "MD5": "05005826f9dafeec6726637f717d9e1e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_basebuilding_ramps.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "8977cd7ff38d4ee5475ea7c5697d259e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_basebuilding_safes.pbo",
+    "Size": 27859882,
+    "MD5": "dd95ad8594ab5a7e2597b2547876f0a4"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_basebuilding_safes.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "a352a99f31e65824418e541fae777732"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_basebuilding_stairs.pbo",
+    "Size": 165394,
+    "MD5": "6b0f5e8e3f2dbb045693cd589c8faec3"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_basebuilding_stairs.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "550ea7a1b84fe244dc0ca27f8524e713"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_basebuilding_tents_kits.pbo",
+    "Size": 20734597,
+    "MD5": "6a42dafbc3ffa1afd59b57c49f78da03"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_basebuilding_tents_kits.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "6de623ebd5fa8ff8e3cf48b58bcebbf8"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_basebuilding_vanilla_tents.pbo",
+    "Size": 1234,
+    "MD5": "90b3098ac463353d39f63cc8267f412c"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_basebuilding_vanilla_tents.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "4fe35c094d4c957cd149a11c401e0417"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_basebuilding_walls.pbo",
+    "Size": 268897,
+    "MD5": "8957d10704015c7b2386fe43d1832728"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_basebuilding_walls.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "7f9401f119b3daf0c579a8aa85bb62fd"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_gear_box.pbo",
+    "Size": 6506411,
+    "MD5": "cedfcbb293afa448d4e7d9ae427a7777"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_gear_box.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "16cdc58d67b7abc9100543efbd4999e6"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_gear_consumables.pbo",
+    "Size": 21242669,
+    "MD5": "f9ce86d90768a3b86d21fa60785525a1"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_gear_consumables.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "dc4691ca63095f65a52d8a126c37e888"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_gear_electricity.pbo",
+    "Size": 38956113,
+    "MD5": "810fbc1ae7823ad490039d0a92f099f5"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_gear_electricity.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "762d209936492ff9cc6be597fcb3ba7c"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_gear_exampleopenablelockablecontainers.pbo",
+    "Size": 1194,
+    "MD5": "e58c6cc09ed423e8b8f933e6cdcd69d0"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_gear_exampleopenablelockablecontainers.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "c45381aea2d749d0839a2346cc9bae3d"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_gear_gps.pbo",
+    "Size": 974820,
+    "MD5": "57ff4752c9ad681d69a36009e3fe3899"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_gear_gps.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "7ff4b9499bdf19ff2cc90b1a672e9ecf"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_gear_gravecross.pbo",
+    "Size": 1543,
+    "MD5": "47f7dc33d7fc6a894b19b01553597178"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_gear_gravecross.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "e355f6d3fefdb8087311d3fbda36654d"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_gear_guitar.pbo",
+    "Size": 23100020,
+    "MD5": "a82bffea25c72f0d497958dc70e8661e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_gear_guitar.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "4ed422b5be3171b41bb9cc8374a29fa1"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_gear_parachute.pbo",
+    "Size": 9636962,
+    "MD5": "e61ae75afebaad68eea32451294d4170"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_gear_parachute.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "190e472e9c5c829c12a184c7c467360e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_gear_spraycans.pbo",
+    "Size": 6027042,
+    "MD5": "2312ff3d542615a9bcb5f0864464b341"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_gear_spraycans.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "f6786a5939906623c83cc4b881e59d13"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_kits.pbo",
+    "Size": 8090932,
+    "MD5": "fcec0979179ace8dccb649b416135b2a"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_kits.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "e71b02138a03048be92c5ef9cfcf1f0a"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_misc.pbo",
+    "Size": 38443479,
+    "MD5": "f6de1db1ed7f768e488f3380554546c9"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_misc.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "e27bd96d853924780120020f6a1c812e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_bmx.pbo",
+    "Size": 20726,
+    "MD5": "665c0607857d14dd77807cd965bb7842"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_bmx.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "2a8888b9d34ac3df5a3e687bf803fba3"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_builderitems_bliss.pbo",
+    "Size": 111109,
+    "MD5": "e2d028c3feab9e069d611d06415e6221"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_builderitems_bliss.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "1f887d873045a11d5e2f975af7a02163"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_builderitems_dz.pbo",
+    "Size": 669568,
+    "MD5": "e63d53afca7e1c74d210e2da935412a1"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_builderitems_dz.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "d9f8ef26bd1a70bd485b1286377db94b"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_builderitems_expansion_airdrop.pbo",
+    "Size": 4856,
+    "MD5": "3c4dda2cb7660a516cbbdc714e997f37"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_builderitems_expansion_airdrop.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "f9cd64e487b6d804268a5dcece541aff"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_builderitems_expansion_basebuilding.pbo",
+    "Size": 7201,
+    "MD5": "47a95c18c2348402f77848b72d98d9cb"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_builderitems_expansion_basebuilding.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "391d43fa03e263c4cd3b2c269efc09b8"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_builderitems_expansion_vehicles.pbo",
+    "Size": 30911,
+    "MD5": "87628c200d71fd71c14a281a07cec1af"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_builderitems_expansion_vehicles.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "97450a81c0ef479af3eca9116da22e01"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_debug.pbo",
+    "Size": 40295,
+    "MD5": "a3bf458ddea7a812605a9db2b6effa62"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_debug.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "65fd9b5fd2ee81577f48f027ce1fa5b0"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_editor.pbo",
+    "Size": 6524,
+    "MD5": "9b1148482fdaff202cd249ba7b052dde"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_editor.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "85606579187cd595d00a1457ea2c9fb8"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_expansionflag.pbo",
+    "Size": 248951,
+    "MD5": "ba587a6b445ffffeeb5023e2ce29145a"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_expansionflag.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "b18ef120445db01abf0d3f6e45cb4c58"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_flags.pbo",
+    "Size": 4388887,
+    "MD5": "5f08531ba40b220871d25a433f297b40"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_flags.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "aef944a038acf8aa2ddd03637feddc51"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_grass.pbo",
+    "Size": 1846458,
+    "MD5": "e702a9765e91c5f3a5dae4c41b7fa3ad"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_grass.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "10c053ba4073ef9158f0c90d2efaae43"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_industrialprops.pbo",
+    "Size": 59014912,
+    "MD5": "6560412954c45ce465027758fe4f31f1"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_industrialprops.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "669f8bf37dc5b746c970073190e411a7"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_ivyautumn.pbo",
+    "Size": 2793216,
+    "MD5": "411662d2f9abee05d544e03b92c9e103"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_ivyautumn.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "9cfadf6ebfb1ff4b2796d2d2af7c1715"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_lighthouse_lamp.pbo",
+    "Size": 1605,
+    "MD5": "8da3344d8681ff7613652565c02d8a7c"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_lighthouse_lamp.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "5312cc59e9fad2d19e6126a84773b0ef"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_props.pbo",
+    "Size": 1098718679,
+    "MD5": "70212c9eefebac35c82725a493d6e7b6"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_props.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "1c2cbea05d31303fcab84622cdcfe3ed"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_signs.pbo",
+    "Size": 391473,
+    "MD5": "f1614071ebde5661cda0bf0da6b0b453"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_signs.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "354adbb3c34403772aa166cc4f0e8af5"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_wreck.pbo",
+    "Size": 941,
+    "MD5": "d34d6beb80b14831b41e78521137b2f6"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_structures_wreck.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "c211e4f64e64e678444654a41e850750"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_attachments_lasers_anpeq.pbo",
+    "Size": 8487244,
+    "MD5": "48a4927848c7fb9432d5a8b0c3b0aba7"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_attachments_lasers_anpeq.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "9efad007d44fda9e7b947b175d701cd3"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_attachments_lasers_impacts.pbo",
+    "Size": 146932,
+    "MD5": "3fc4e65fb2b5b5b77289a2181ccd57a3"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_attachments_lasers_impacts.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "22e19f94ae5df29099890eae46ed607f"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_attachments_optics_deltapoint.pbo",
+    "Size": 9939576,
+    "MD5": "1804200d0092783c8c8d97ed52f13ed5"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_attachments_optics_deltapoint.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "dcf34f4430be53c30cc0bce550e18285"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_attachments_optics_exps3.pbo",
+    "Size": 12214090,
+    "MD5": "2118da0ff550f02a375634de41cb01bc"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_attachments_optics_exps3.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "55ab01adbe2d9f9c1320397b4617814b"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_attachments_optics_hamr.pbo",
+    "Size": 9803810,
+    "MD5": "5456eaee7a7dedcbf0ef75f1e5bc8c14"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_attachments_optics_hamr.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "08b87c5e25cf1b2610a44659442e8e32"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_attachments_optics_kar98scope.pbo",
+    "Size": 9817884,
+    "MD5": "13efd7b43faf9ec981842de8bd30737d"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_attachments_optics_kar98scope.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "4540510d31333fbf1c984fa2c781991e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_attachments_optics_pmii25x.pbo",
+    "Size": 9283950,
+    "MD5": "436b8ae6ec614716c6eb61c01690381e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_attachments_optics_pmii25x.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "16e31822f111e17c9d2f2e906586c475"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_attachments_optics_reflex.pbo",
+    "Size": 13205449,
+    "MD5": "1814a56b755e9e2defa66305bf4405fe"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_attachments_optics_reflex.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "0b41b718bd71899f5c1bf3ab7799ff03"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_attachments_support_kar98bayonet.pbo",
+    "Size": 27437266,
+    "MD5": "ab60c097a8054e263f82c6b4be794682"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_attachments_support_kar98bayonet.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "4331505a45be0467bc006866d3602086"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_attachments_support_stanag60.pbo",
+    "Size": 8817144,
+    "MD5": "5277ce9db114cf53bd89ee66cf1d7eda"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_attachments_support_stanag60.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "8fd6dcbcc988a4d00a055f2d9cc61a79"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_archery_crossbow.pbo",
+    "Size": 9610996,
+    "MD5": "33054850e6a1b2df1a5144b7e742021b"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_archery_crossbow.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "ace5588261ed1b81f302ae3e061c4510"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_flaregun.pbo",
+    "Size": 1920,
+    "MD5": "36889cdd274d47a37e1556a9e628d8d2"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_flaregun.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "1dd1884067baccdfdba02170c73abcf9"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_law.pbo",
+    "Size": 6086,
+    "MD5": "032226169ce19a57a8dcf5fcd29ec27d"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_law.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "9dc2026488d2a0771441fb1d882599db"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_m79.pbo",
+    "Size": 4557590,
+    "MD5": "bcd1734d2c918fb4107035ef662e4ef2"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_m79.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "b1169ce3dbf65b2e8903c2103390b1dc"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_pistols_m9.pbo",
+    "Size": 10459991,
+    "MD5": "0ebb7c21d1603c01e2a5cc9456ef8991"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_pistols_m9.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "5279ee6081ca6cc61d68f21b97e29618"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_pistols_x2taser.pbo",
+    "Size": 7901,
+    "MD5": "957ae7865b33d820f79548e3c059dc4b"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_pistols_x2taser.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "565520040af982f5bdd01b14e01a5a7b"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_rifles_g36.pbo",
+    "Size": 7307728,
+    "MD5": "954c6e1cecc5b34af4ed19007e09e301"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_rifles_g36.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "cb02e54d1eba9fbc2cdd2b199e664d05"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_rifles_m14.pbo",
+    "Size": 11901884,
+    "MD5": "3b458385ec907905e047ce54adb03d93"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_rifles_m14.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "248161b599b902e674f9c0411a4fb6f2"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_rifles_m16.pbo",
+    "Size": 20971827,
+    "MD5": "785d1ab54da69a54262548b4f6f27951"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_rifles_m16.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "bc9e89eef61c2504fbc478c24a0f7288"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_rifles_m1a.pbo",
+    "Size": 42251407,
+    "MD5": "3de335a2b3aa48dd98fd3b794e3da5a5"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_rifles_m1a.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "da31158aa033334496943eb340a84087"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_rpg7.pbo",
+    "Size": 13561037,
+    "MD5": "beca87acb0976e6fd957b83111d25a84"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_rpg7.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "0276eb4460630b2890e85a3c0e6e0242"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_shotguns_dt11.pbo",
+    "Size": 16485187,
+    "MD5": "72676f883da25e612eb048e594bb37f5"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_shotguns_dt11.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "b0276f92b93f564d0518b4e8a2521182"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_shotguns_remore.pbo",
+    "Size": 16074744,
+    "MD5": "92cbbf59352001cd624aab88b7529157"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_shotguns_remore.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "77c735fabea78cf0983807ffa6cd1b72"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_smg_gtm.pbo",
+    "Size": 17907310,
+    "MD5": "6b73dedde1f3027c850f821954a036be"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_smg_gtm.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "495ddce8e4f904a2028bc24492e3e6bc"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_smg_mp5.pbo",
+    "Size": 67750464,
+    "MD5": "76e531692b176b60099fbad74d8be35b"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_smg_mp5.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "2a3edbc8c2e411644ced4483792c905e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_smg_mp7.pbo",
+    "Size": 11172418,
+    "MD5": "d27bd90bed63c57986a1e8380cfb25ab"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_smg_mp7.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "379e5c0a15216a91e3092460ea92fc4a"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_smg_p99.pbo",
+    "Size": 18059669,
+    "MD5": "806ea74a336819ab80337df9afebcfd8"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_smg_p99.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "70800052250e814e336e47e1de5398af"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_smg_vityazsn.pbo",
+    "Size": 22696526,
+    "MD5": "635410a19df35e55f45e869876563245"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_smg_vityazsn.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "1682a7b27ae6be974641f1355ec8bc72"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_sniper_awm.pbo",
+    "Size": 43708650,
+    "MD5": "d87b2722a6d714efe472e9720e18d557"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_sniper_awm.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "ad9ec5fe49e8fa2fea63969e8b2e9884"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_sniper_kar98.pbo",
+    "Size": 10524784,
+    "MD5": "c8430b481182719ce77916529542e526"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_sniper_kar98.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "4687f04f86dd4f6043b43b526ba6a07e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_vanilla_override.pbo",
+    "Size": 1912,
+    "MD5": "85b82278e374d80245453a8996e0919f"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_vanilla_override.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "9b0ffb68a7e3463f82d8e57c2a055858"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_vanilla_skins.pbo",
+    "Size": 17764957,
+    "MD5": "16abd77dd4650547571ce5a4e65737b3"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_firearms_vanilla_skins.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "b280542021e97149ced8d533173c1dfc"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_throwables_smokes.pbo",
+    "Size": 457442,
+    "MD5": "9a1afa09688e438e42c8143b5301ff1c"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\objects_weapons_throwables_smokes.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "9212e4b5922ac6e5b4711d702b975b83"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\p2pmarket_gui.pbo",
+    "Size": 95200,
+    "MD5": "d128d1f461bd3bac33b795aefd4e5254"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\p2pmarket_gui.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "7db10d775579b4ab673c50bf62591dc4"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\p2pmarket_objects.pbo",
+    "Size": 9884,
+    "MD5": "2ab7776d45a36270396d462c7cd3ad38"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\p2pmarket_objects.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "60bca2346525be870e9e403e479161ea"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\p2pmarket_scripts.pbo",
+    "Size": 281151,
+    "MD5": "831c580e756f2841510271043c852682"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\p2pmarket_scripts.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "0b34cdef9220f0657a3086dc7bfe2449"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\particles.pbo",
+    "Size": 6743324,
+    "MD5": "767ed1d5c9455e6939801eacd0c06715"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\particles.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "86d9d2a9b74a87ceebbde22b9beeec2d"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\personalstoragenew_objects.pbo",
+    "Size": 4690,
+    "MD5": "ed2752d834acef133fb96d11563e90b9"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\personalstoragenew_objects.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "cf7e4403ccde0fc8a267ae54b448e59f"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\personalstoragenew_scripts.pbo",
+    "Size": 45302,
+    "MD5": "fa6f6f102b4c3fd8ada19261214fcf9d"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\personalstoragenew_scripts.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "248089e4934ad05a0087b8a424bd6d8e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\personalstorage_gui.pbo",
+    "Size": 63693,
+    "MD5": "ee441618aabfbda8af9e016eb3f7a534"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\personalstorage_gui.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "5e72247462f7d402780f483cf02afd32"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\personalstorage_objects.pbo",
+    "Size": 950256,
+    "MD5": "401e7408e0bdcc5edda9e09a0f43bfa1"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\personalstorage_objects.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "c24f5de09dd1a9fe1c669b0ba4b577e2"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\personalstorage_scripts.pbo",
+    "Size": 212830,
+    "MD5": "d37cd132f224d2aa29311637e49a03f7"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\personalstorage_scripts.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "2c6328a6f7a49580fa7c9ef38a07b22e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\playerlist_gui.pbo",
+    "Size": 12233,
+    "MD5": "c333f68c96f0d76ed015a3c1642919a5"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\playerlist_gui.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "643d387cfb9f0cc9004fc1005b53a4bc"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\playerlist_scripts.pbo",
+    "Size": 14625,
+    "MD5": "d687bb661c0214727b6bb563ffd6d50a"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\playerlist_scripts.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "466f540bd43e2ade695e1e4b1650ed7c"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\quests_dta_core.pbo",
+    "Size": 6518361,
+    "MD5": "1308d9c45f08c3b52cce3fba083739b7"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\quests_dta_core.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "e8c869f32c6f286b71170941fdf89cc3"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\quests_dta_objects_board.pbo",
+    "Size": 4998293,
+    "MD5": "45fcdeb678ed8414ee5e9421e5616b9b"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\quests_dta_objects_board.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "a55a5ddf781118e0925dcb26341d7d92"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\quests_dta_objects_containers.pbo",
+    "Size": 4641,
+    "MD5": "13948ec99d23ba17cd0ceab3d4430607"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\quests_dta_objects_containers.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "d71e56ecabcd65139d9973b9c2409146"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\quests_gui.pbo",
+    "Size": 84816,
+    "MD5": "1e601d990b5aef5601f8d470ffe86a27"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\quests_gui.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "bb13b34abce0f69f4b0883c60ad8086f"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\quests_particles.pbo",
+    "Size": 93560,
+    "MD5": "3a4bbd5cfb8ac7cd7b688f6035e38ea8"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\quests_particles.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "e0faa949e26d861619627089293cafac"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\quests_scripts.pbo",
+    "Size": 840773,
+    "MD5": "78560e7e7758c7f781eb721cfd143e1c"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\quests_scripts.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "076a524785d9a3186528a736d6b06237"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\scripts.pbo",
+    "Size": 4610592,
+    "MD5": "59ca529238b1c5e39a0405ec0a1440fb"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\scripts.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "dc141a66af35c9291349a15a632a77db"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\skins_vehicles.pbo",
+    "Size": 589931,
+    "MD5": "c3c97cd87893b9981fa7ce3867ff21bc"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\skins_vehicles.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "16b4a7a83ef215ea6ccc2e4a204fb6a7"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\skins_weapons.pbo",
+    "Size": 91415,
+    "MD5": "31bff5364727869ff291a649ef9f0ae8"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\skins_weapons.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "15847356727bbcac74a2196ff1cdc881"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_basebuilding.pbo",
+    "Size": 490537,
+    "MD5": "a2caff04bfdf2bfa29da7f61b2f1cc9d"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_basebuilding.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "ce500e0f1641b6388afa5c8bdd02a89e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_book.pbo",
+    "Size": 118477,
+    "MD5": "81c4a11f91449c00987cc990d92d7011"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_book.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "2e4e457234defeea43f01a1a2bc1f613"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_church.pbo",
+    "Size": 606,
+    "MD5": "11d58ca07b11c28340837b9570d9745a"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_church.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "e24b78131850dc2b4b80120670d2ce58"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_items_propanetorch.pbo",
+    "Size": 131081,
+    "MD5": "ec825e971ec0d759aa0f663e06c268ae"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_items_propanetorch.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "71a7c7ac9e57bee9244f68ec0d347d6f"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_items_spraycan.pbo",
+    "Size": 18317,
+    "MD5": "bb7c372e81ab3d9034569a78b2d98834"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_items_spraycan.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "61adc074b3ceaa3d46706d4b4ec41a1d"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_ui.pbo",
+    "Size": 264518,
+    "MD5": "8c836a6ae90dc6fde278a5111e83260f"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_ui.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "0388c72c7e62e1a4600ae17712e3cc91"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_vehicles_air_hatchbird.pbo",
+    "Size": 162959,
+    "MD5": "ffebea2574f74bf70846e5738ec1d879"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_vehicles_air_hatchbird.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "4ff022c93ea11094799df050a9572668"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_vehicles_common.pbo",
+    "Size": 64719,
+    "MD5": "e64fd02e18f08b60ba31e806103dc700"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_vehicles_common.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "68e25ea9e16f9d7f6451a3f19cccb68c"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_vehicles_ground_bus.pbo",
+    "Size": 55227,
+    "MD5": "940b1f91a4dbacda0c18a7270523ea19"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_vehicles_ground_bus.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "c8b743c3cca369e98b83a888aecd4a71"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_vehicles_ground_civiliansedan.pbo",
+    "Size": 6078,
+    "MD5": "53c51cafb7aa5057cac604617e717efd"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_vehicles_ground_civiliansedan.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "86cb103f07dbf172fbd4d403674311ad"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_vehicles_ground_hatchback_02.pbo",
+    "Size": 6003,
+    "MD5": "30204be33bed065728af7b9735e72af9"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_vehicles_ground_hatchback_02.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "3c5b709fd77688db5446f77af8adbadb"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_vehicles_ground_offroadhatchback.pbo",
+    "Size": 5657,
+    "MD5": "b564c434d91f7466e2d085b17f2555e0"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_vehicles_ground_offroadhatchback.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "ab4482117c069200ffbb3f957ee398e9"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_vehicles_ground_sedan_02.pbo",
+    "Size": 5703,
+    "MD5": "9c8d817df8c7032c861aacd1e5251b64"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_vehicles_ground_sedan_02.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "e1ea360ec320c0e8086e331b88a90daf"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_vehicles_ground_truck_01_base.pbo",
+    "Size": 3210,
+    "MD5": "d7959919ef4e063ff4e1e3d28a5759df"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_vehicles_ground_truck_01_base.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "5120a410c56bb684fcfdcbeae180c7a5"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_weapons_crossbow.pbo",
+    "Size": 59332,
+    "MD5": "4da485f07e32de2fa18651e12144cc5d"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_weapons_crossbow.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "773ae47779884322aaa2d71db32ef0bf"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_weapons_kar98.pbo",
+    "Size": 175156,
+    "MD5": "1121b18f993af8c39b0870232e7a58c6"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_weapons_kar98.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "5aac44c08f2f414ce971170ca51d97fe"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_weapons_m79.pbo",
+    "Size": 104994,
+    "MD5": "9962e366cb6ccb16e1c18333f5d0a351"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_weapons_m79.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "e25d1aa20a97862a0d6b6092e3142247"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_weapons_ricochet.pbo",
+    "Size": 60884,
+    "MD5": "53b883c9d936d7636e6f2867e504bc7e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_weapons_ricochet.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "1bcebb5aabb696b06f460cd3e2fdb9c9"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_weapons_rpg7.pbo",
+    "Size": 299693,
+    "MD5": "9c9db7f1889be9b80064caf2237308bf"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\sounds_weapons_rpg7.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "fbc635c66b6f80b27b75762196470e6f"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\spawnselection_gui.pbo",
+    "Size": 9404549,
+    "MD5": "8e70f3c9d338653d01f123b3e6da6127"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\spawnselection_gui.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "d73c8bb5d443bc890d44913f4bff733c"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\spawnselection_scripts.pbo",
+    "Size": 135752,
+    "MD5": "bde30f7268d078d25aedcbebb6f00f44"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\spawnselection_scripts.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "90c34c6e309bbba05220cbc8bb4f0bd9"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\structures_industrial_misc.pbo",
+    "Size": 525,
+    "MD5": "81a254d2fef7d5e75c2444e499ec4d1b"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\structures_industrial_misc.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "d01ee1d52b250f4db3e6a4b6b7b79397"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\structures_industrial_power.pbo",
+    "Size": 826,
+    "MD5": "b9ad7da17d7e188ecb636c1996274667"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\structures_industrial_power.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "27b8a858689a52a63b7d81477afb4702"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\structures_residential_misc.pbo",
+    "Size": 695,
+    "MD5": "f491a1503d9b2bad4a2fe63f373b7268"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\structures_residential_misc.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "b6a2bb47812d971301c7806928e0ae9b"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vanillafixes_animals.pbo",
+    "Size": 741,
+    "MD5": "e2e141cabfbd58cdde00ca2b30710304"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vanillafixes_animals.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "ae732a6bc6f8e50cd5a82031e6263576"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vanillafixes_gui.pbo",
+    "Size": 4204,
+    "MD5": "00480782878ea338a03f5d671a5cb93e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vanillafixes_gui.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "253b296afc3bb85071e0bba82625f666"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vanillafixes_scripts.pbo",
+    "Size": 30511,
+    "MD5": "82e91290461ba13385a81f971f027cb2"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vanillafixes_scripts.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "569a708a77a652ff3068d0004cc24488"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vanillafixes_sounds.pbo",
+    "Size": 479,
+    "MD5": "cb13ad66e2026ab3d5c90ea9fe9b4aba"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vanillafixes_sounds.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "9343d1e637a9904ff930ad28cf296f03"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vehicles_air_gyro.pbo",
+    "Size": 36548927,
+    "MD5": "d4d0e644230b0f64a7e6aac8f619ea9e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vehicles_air_gyro.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "566197a5174d0d255f77ac6425b5803f"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vehicles_air_hatchbird.pbo",
+    "Size": 4610209,
+    "MD5": "010cb0c686f75a7cf0e08c06ddcb666c"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vehicles_air_hatchbird.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "b6efb714f7ec55638defb71d60122f24"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vehicles_ground_civilliansedan.pbo",
+    "Size": 33469,
+    "MD5": "0985aca30949dae810bdf5c8ebec9895"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vehicles_ground_civilliansedan.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "86e5b2fb9a094082a6fe1f86bfb4d47c"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vehicles_ground_hatchback_02.pbo",
+    "Size": 7019462,
+    "MD5": "69173912d16eea708eabfdd45880923a"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vehicles_ground_hatchback_02.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "d856993efd5644b2450139094d1e8661"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vehicles_ground_landrover.pbo",
+    "Size": 252866407,
+    "MD5": "5ce647dd576ac341e55acdae4031521d"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vehicles_ground_landrover.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "ec7267edac6748471f50685d5bf9d406"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vehicles_ground_offroadhatchback.pbo",
+    "Size": 31760,
+    "MD5": "13cb3cdead89a9200c8d0ee11cd2e7c4"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vehicles_ground_offroadhatchback.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "edf7bcf6e19f27496176f634456b67cf"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vehicles_ground_offroad_02.pbo",
+    "Size": 744,
+    "MD5": "5ed0713ae9f72597eea1128ae5fedb1c"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vehicles_ground_offroad_02.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "5484091bf6e442e882d2b2b677e82de5"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vehicles_ground_oldbike.pbo",
+    "Size": 11168010,
+    "MD5": "49265e7c9521642f4dbd9ad7aad2ead1"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vehicles_ground_oldbike.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "5063e6ba5155b01a93a8d37299bc063e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vehicles_ground_sedan_02.pbo",
+    "Size": 33098,
+    "MD5": "62d3d33846a392f665782abbb4bedac2"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vehicles_ground_sedan_02.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "d0c90e9c546ec07d5bc535a277da5f3a"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vehicles_ground_truck_01.pbo",
+    "Size": 22125,
+    "MD5": "a5f2fbba16e716b30374d9604eeace09"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vehicles_ground_truck_01.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "f7422b0861b27989895fedec16043e43"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vehicles_ground_uaz.pbo",
+    "Size": 206707392,
+    "MD5": "c6c3fcb04e0cbc808f6f7e0fc8e87b77"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vehicles_ground_uaz.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "739d33846c6ff8ab4a66cc288d39eb8a"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vehicles_gui.pbo",
+    "Size": 61544,
+    "MD5": "3ca7ce13353af0399cbda81aaf601c9d"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vehicles_gui.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "64a40956224c7cce6b62ad0825ac8bbe"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vehicles_objects_gear.pbo",
+    "Size": 34249543,
+    "MD5": "130185b10cde1741295ab3155f73f92b"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vehicles_objects_gear.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "35a19be416b1e031ac550c4bf3393574"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vehicles_scripts.pbo",
+    "Size": 1296636,
+    "MD5": "b4b07576b5f238a6664bffa13fa769a4"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vehicles_scripts.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "3b4f08899be3dfb4b031199d538034bb"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vehicles_water_zodiac.pbo",
+    "Size": 9547711,
+    "MD5": "e6c08c1a28077449348b1718c360abeb"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\vehicles_water_zodiac.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "ea6deaad28cf6a176f633747c8813c54"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\virtualcontainerstorage_scripts.pbo",
+    "Size": 23448,
+    "MD5": "ae1694a0cc0137b8a7e9351656f393a6"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\virtualcontainerstorage_scripts.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "64456c580f05fca910c254396730f792"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\weapons_animations_player.pbo",
+    "Size": 389122,
+    "MD5": "1c41262f4902fb2b39c40d547db952d0"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\weapons_animations_player.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "b1014fe90a04071f83f301fd278fc549"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\weapons_scripts.pbo",
+    "Size": 129778,
+    "MD5": "673e9ada34a4b8105d3b38057318072c"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\weapons_scripts.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "1f0b32d116f3e06b37434df65d0080ac"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\worlds_chernarusplus_gloom.pbo",
+    "Size": 10766212,
+    "MD5": "2098345b5d32076ccca61c2abe5b159e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\worlds_chernarusplus_gloom.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "58c7eb50205dd9224beb961dee10580e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\worlds_chernarusplus_vanillarays.pbo",
+    "Size": 7716,
+    "MD5": "00067f8df6bd1215eef71100653de7bf"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\worlds_chernarusplus_vanillarays.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "3c05c44ee3f890f9213c8f5af79bc478"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\worlds_enoch_gloom.pbo",
+    "Size": 6969,
+    "MD5": "f0dedde0d6e92949aa41466741948b83"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\worlds_enoch_gloom.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "2c909d604455172747f49ed517aad354"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\worlds_introscenes.pbo",
+    "Size": 7512,
+    "MD5": "bb28c008322636a4932225494dfc84a8"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\addons\\worlds_introscenes.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "760b9dcf73b7e20d1d24e188c0a5f592"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Bundle\\keys\\Expansion.bikey",
+    "Size": 162,
+    "MD5": "6e991b0e471b37acde5b6fa862067fcb"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\meta.cpp",
+    "Size": 111,
+    "MD5": "ed88c65704d6c3d58b0df0e7a0005eca"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\mod.cpp",
+    "Size": 457,
+    "MD5": "64ea141f9521a86b7cbe07bb9679a924"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\languagecore_licensed.pbo",
+    "Size": 84459,
+    "MD5": "e07f6eb50cefac8835c4fe342d48b4a0"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\languagecore_licensed.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "1af788807e72b06b2388177ef342b50f"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\objects_airdrop.pbo",
+    "Size": 16014883,
+    "MD5": "169e6f5d632fb55232d1ca5f78ce03ef"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\objects_airdrop.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "56dcc24309867879bb90540bacb86b03"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\objects_basebuilding_gates.pbo",
+    "Size": 3745671,
+    "MD5": "17043e9a9522fd7283f4552bf44eaedc"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\objects_basebuilding_gates.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "38ca73e0240d57db201452d9bc14fa70"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\objects_basebuilding_misc.pbo",
+    "Size": 16037366,
+    "MD5": "5960a7bf9860d175e2afbd39276812ab"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\objects_basebuilding_misc.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "27bdef342939498c31ab4086013366da"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\objects_basebuilding_tents.pbo",
+    "Size": 151976,
+    "MD5": "36f1582ac32a92fbdcf55c56fc0956ac"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\objects_basebuilding_tents.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "22dc572d537c89acddfe6e1d181a2a36"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\objects_structures_grass_sample.pbo",
+    "Size": 3032252,
+    "MD5": "e704e65d6a23d0b7a4870ed8b46a8d65"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\objects_structures_grass_sample.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "f65d325b59d5ccc80ed902e02380f04d"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\objects_structures_hanged_body.pbo",
+    "Size": 6969397,
+    "MD5": "86a1e2109d5af2a88908ed2e77648fcf"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\objects_structures_hanged_body.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "0deac302ddf71e27ef986d6d9bdea8d3"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\objects_weapons_explosives.pbo",
+    "Size": 4687639,
+    "MD5": "b57e735cabb74fed7f389d74cbb53021"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\objects_weapons_explosives.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "e2c5dbed6c4dd726db7a5b182044b1d6"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\sounds_airdrop.pbo",
+    "Size": 263876,
+    "MD5": "22e2fc20cf3d09f5b6fa7ba4023df905"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\sounds_airdrop.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "a176faeb957cf69b3aa86d7b1768a7ef"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\sounds_explosions.pbo",
+    "Size": 565613,
+    "MD5": "fcb5b5b3150783f3e141fb077e4e0ea3"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\sounds_explosions.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "e2166516330afc62057a400c7348ac80"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\sounds_vehicles_air_an2.pbo",
+    "Size": 377844,
+    "MD5": "6b7e10f788caccb55098f05991ed32e5"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\sounds_vehicles_air_an2.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "b012ffbeabf0348d5cad0bfc15ef7736"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\sounds_vehicles_air_gyro.pbo",
+    "Size": 605298,
+    "MD5": "2a4d210d479be51f80ad2eabbd202ee7"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\sounds_vehicles_air_gyro.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "796fe7c94aa7ae96b8a9839ac694f4ae"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\sounds_vehicles_air_merlin.pbo",
+    "Size": 2014123,
+    "MD5": "fd469412cd8c85d0782e3e47d6212cb5"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\sounds_vehicles_air_merlin.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "4d026e2cc3cdbc80f1b89fdf1e7f08be"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\sounds_vehicles_air_mh6.pbo",
+    "Size": 3353124,
+    "MD5": "e6bf4f872724d29512a5951ef467f650"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\sounds_vehicles_air_mh6.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "eddaafb2e43b005b49a423686906449b"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\sounds_vehicles_air_uh1h.pbo",
+    "Size": 1859107,
+    "MD5": "eaa3057a25b171ccc9f9acc6efb9473f"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\sounds_vehicles_air_uh1h.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "730ddd1d70957b9f3440eace89ca6cb1"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\sounds_vehicles_ground_n250.pbo",
+    "Size": 894164,
+    "MD5": "0502480c4b4d11845aae1a4e4c4ca2ab"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\sounds_vehicles_ground_n250.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "15438fe034c91be68bcc855629b66ae8"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\sounds_vehicles_ground_tt650.pbo",
+    "Size": 836201,
+    "MD5": "f0ea10c6f605f4642f42f58a03be947d"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\sounds_vehicles_ground_tt650.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "9727e0318968f2924cdb1c8b9004df70"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\sounds_vehicles_ground_vodnik.pbo",
+    "Size": 10266,
+    "MD5": "eb3b82c4e18ab4ee2cb70727e9f876b8"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\sounds_vehicles_ground_vodnik.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "3150c59bde670318d11ba18729f7b5f3"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\sounds_vehicles_water_lhd.pbo",
+    "Size": 776999,
+    "MD5": "790938b9242aa600c88fc91fc163e69a"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\sounds_vehicles_water_lhd.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "81674a482b16b6fcb25a852bc6242d1b"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\sounds_vehicles_water_utility.pbo",
+    "Size": 240232,
+    "MD5": "6ef8cd34a7956b7a2252a8ef5e5281ef"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\sounds_vehicles_water_utility.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "6252d1987ce0ab8b10d2d0e9e8074201"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\sounds_vehicles_water_zodiac.pbo",
+    "Size": 1327666,
+    "MD5": "be0d4c4d41e9e1bf2ef6122f28e29f66"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\sounds_vehicles_water_zodiac.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "4d7eb20368e108d5422501df0e04890d"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\vehicles_air_an2.pbo",
+    "Size": 55467220,
+    "MD5": "2970210ecb02afdf92d3065d36c0157c"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\vehicles_air_an2.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "f5a948248e3847c055ed045e0bfcd201"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\vehicles_air_c130j.pbo",
+    "Size": 17475022,
+    "MD5": "18073072744732613a27cb7ae13f6ba9"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\vehicles_air_c130j.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "53e0381dfb39a6edbc097ff7181dcedf"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\vehicles_air_merlin.pbo",
+    "Size": 66184531,
+    "MD5": "c0f24101aaca75a75e527e0d91be5dfe"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\vehicles_air_merlin.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "ca816c494c68edd3312b9b96e65d7edd"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\vehicles_air_mh6.pbo",
+    "Size": 96206281,
+    "MD5": "e5ee12c8cc016a313949285c6cf89972"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\vehicles_air_mh6.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "ee036ecf122483c0c5339b9acd905de3"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\vehicles_air_uh1h.pbo",
+    "Size": 74505628,
+    "MD5": "c6289f5aea3ee3396ed178f97bf60b2f"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\vehicles_air_uh1h.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "eea9377cbeaf35723e0709d2ecf7c04a"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\vehicles_data.pbo",
+    "Size": 27284,
+    "MD5": "7e61c0889ea1f4140210dc1658adeef1"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\vehicles_data.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "d267ae62ccedf0eb78d96aca6b5ebef7"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\vehicles_ground_250n.pbo",
+    "Size": 13481995,
+    "MD5": "e66c3a707fb5d7ccd4818e4e2c0532a7"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\vehicles_ground_250n.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "99f7535ee06cddbb8fc0b0e0039ce61b"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\vehicles_ground_bus.pbo",
+    "Size": 48198226,
+    "MD5": "408c9a69f3f5ffba7449e60b17f7215d"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\vehicles_ground_bus.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "64c4b5e3f3c1241ffffa8ed124d8adc8"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\vehicles_ground_tractor.pbo",
+    "Size": 58261365,
+    "MD5": "91720e35de6132bd1e4a38fbdb8c3377"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\vehicles_ground_tractor.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "0b97a705ca27b8cb7f2c7f03a0db9b0f"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\vehicles_ground_tt650.pbo",
+    "Size": 3480861,
+    "MD5": "d484581e7696bce19cec377e384b0184"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\vehicles_ground_tt650.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "da249af127219d9e2b229fd9cf0e2539"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\vehicles_ground_vodnik.pbo",
+    "Size": 60692286,
+    "MD5": "5c20211a4b08d0d161cd845767690b3f"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\vehicles_ground_vodnik.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "99927a85cca10012b8318886879bf005"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\vehicles_objects_antiair.pbo",
+    "Size": 68984937,
+    "MD5": "bf6fdf7266ff758fd3c58570a516e3c8"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\vehicles_objects_antiair.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "038b75cbc5ec613958055a08da320284"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\vehicles_water_carrier.pbo",
+    "Size": 71583749,
+    "MD5": "394a9c45a54db726a2335446a9e57d5b"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\vehicles_water_carrier.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "9e06c07ffb0a92c24dc3260a631a712e"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\vehicles_water_utility.pbo",
+    "Size": 7339572,
+    "MD5": "64a055e4cf51d0d878ea82d608afeae2"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\addons\\vehicles_water_utility.pbo.expansion.bisign",
+    "Size": 562,
+    "MD5": "693fc960b97d5135e4f927b98c1c77db"
+  },
+  {
+    "FileName": "Mods\\@DayZ-Expansion-Licensed\\keys\\Expansion.bikey",
+    "Size": 162,
+    "MD5": "6e991b0e471b37acde5b6fa862067fcb"
+  },
+  {
+    "FileName": "Mods\\@Ear-Plugs\\meta.cpp",
+    "Size": 97,
+    "MD5": "974ce3dd12de13cd796d568fd7fda7bf"
+  },
+  {
+    "FileName": "Mods\\@Ear-Plugs\\mod.cpp",
+    "Size": 440,
+    "MD5": "e66429f3480025912d2785f304deaadd"
+  },
+  {
+    "FileName": "Mods\\@Ear-Plugs\\NoUnpackOrRepackAllowed.txt",
+    "Size": 114,
+    "MD5": "e2206313c2c1c1fa484b17a7456214bc"
+  },
+  {
+    "FileName": "Mods\\@Ear-Plugs\\Addons\\EarPlugs.pbo",
+    "Size": 104259,
+    "MD5": "37a33a96bc1011d5a8f99dc25e3a084f"
+  },
+  {
+    "FileName": "Mods\\@Ear-Plugs\\Addons\\EarPlugs.pbo.CooltrainV3.bisign",
+    "Size": 564,
+    "MD5": "bfd44f95dcb3848b7e8814ac042c3335"
+  },
+  {
+    "FileName": "Mods\\@Ear-Plugs\\Keys\\CooltrainV3.bikey",
+    "Size": 164,
+    "MD5": "f5cede899a26ea6b16377b14e5f31610"
+  },
+  {
+    "FileName": "Mods\\@Loading\\meta.cpp",
+    "Size": 105,
+    "MD5": "63ea0e9b3f5404a0ed1160a033984149"
+  },
+  {
+    "FileName": "Mods\\@Loading\\addons\\Loading.pbo",
+    "Size": 7417617,
+    "MD5": "869f751a1ee9be566274590a2bb4bf8b"
+  },
+  {
+    "FileName": "Mods\\@Loading\\addons\\Loading.pbo.Loading.bisign",
+    "Size": 560,
+    "MD5": "3bb366482626bf93e04aa0c969c8759f"
+  },
+  {
+    "FileName": "Mods\\@Loading\\keys\\Loading.bikey",
+    "Size": 160,
+    "MD5": "9d5ab78ce17bfc681c43b813164d794f"
+  },
+  {
+    "FileName": "Mods\\@MMG\\meta.cpp",
+    "Size": 115,
+    "MD5": "9416c0c8f67fd2288d84af6108fc6184"
+  },
+  {
+    "FileName": "Mods\\@MMG\\addons\\JPC_Vest.pbo",
+    "Size": 1164513250,
+    "MD5": "d7eb044bc083ee5387e4a9a01296f15a"
+  },
+  {
+    "FileName": "Mods\\@MMG\\addons\\JPC_Vest.pbo.MightyMoitzbert.bisign",
+    "Size": 568,
+    "MD5": "fbc4890127407807f362c4e545f3a29d"
+  },
+  {
+    "FileName": "Mods\\@MMG\\files\\# YOU NEED ALL OF THE FILES.xml",
+    "Size": 32,
+    "MD5": "08f4b55a028fa89869717fd6b71c69ff"
+  },
+  {
+    "FileName": "Mods\\@MMG\\files\\Classlist - ADDED IN LAST UPDATE.txt",
+    "Size": 28,
+    "MD5": "74d7ed11d93699783b1f78d949a844fa"
+  },
+  {
+    "FileName": "Mods\\@MMG\\files\\ITEMS ADDED IN LAST UPDATE.xml",
+    "Size": 28,
+    "MD5": "74d7ed11d93699783b1f78d949a844fa"
+  },
+  {
+    "FileName": "Mods\\@MMG\\files\\spawnabletypes\\mmg_cfgspawnabletypes.xml",
+    "Size": 77620,
+    "MD5": "eae9d6671056146545227279417b53f9"
+  },
+  {
+    "FileName": "Mods\\@MMG\\files\\trader\\trader_files_mmg.txt",
+    "Size": 25010,
+    "MD5": "b2e8dbbd0c3e145c7203043501dda35e"
+  },
+  {
+    "FileName": "Mods\\@MMG\\files\\types\\mmg_types_ADMINGEAR.xml",
+    "Size": 2729,
+    "MD5": "e498be17ac0697879cdeeea44c1ee977"
+  },
+  {
+    "FileName": "Mods\\@MMG\\files\\types\\mmg_types_alpine.xml",
+    "Size": 17795,
+    "MD5": "75d4b67bca48e47607859348164846d1"
+  },
+  {
+    "FileName": "Mods\\@MMG\\files\\types\\mmg_types_atacs.xml",
+    "Size": 17762,
+    "MD5": "51ef7ddfc89514098838225288c9abda"
+  },
+  {
+    "FileName": "Mods\\@MMG\\files\\types\\mmg_types_black.xml",
+    "Size": 21316,
+    "MD5": "5a8109e5b709f814d9f3b937d88a1177"
+  },
+  {
+    "FileName": "Mods\\@MMG\\files\\types\\mmg_types_carbines.xml",
+    "Size": 3584,
+    "MD5": "eebc81c05dbf409f58f7d5731605c9f7"
+  },
+  {
+    "FileName": "Mods\\@MMG\\files\\types\\mmg_types_dark_woodland.xml",
+    "Size": 18035,
+    "MD5": "53e6cac1f25da65f112ad1ff755a7d98"
+  },
+  {
+    "FileName": "Mods\\@MMG\\files\\types\\mmg_types_erdl.xml",
+    "Size": 17727,
+    "MD5": "f29a998e7752809b3bb094391a1b140f"
+  },
+  {
+    "FileName": "Mods\\@MMG\\files\\types\\mmg_types_green.xml",
+    "Size": 20830,
+    "MD5": "f0715fed468caed86e8d155d17baefdb"
+  },
+  {
+    "FileName": "Mods\\@MMG\\files\\types\\mmg_types_multicam.xml",
+    "Size": 17865,
+    "MD5": "545f5469b2e07c161bda91d570ba9cc5"
+  },
+  {
+    "FileName": "Mods\\@MMG\\files\\types\\mmg_types_multicamblack.xml",
+    "Size": 18036,
+    "MD5": "94e4db9c45448c700b472fb59ef0a0e7"
+  },
+  {
+    "FileName": "Mods\\@MMG\\files\\types\\mmg_types_multicam_tropic.xml",
+    "Size": 17581,
+    "MD5": "2bb33935fad0f8d8daba54babefac172"
+  },
+  {
+    "FileName": "Mods\\@MMG\\files\\types\\mmg_types_NBC+NVG.xml",
+    "Size": 2716,
+    "MD5": "0f1d067921e722be0fa78ce92cfb4318"
+  },
+  {
+    "FileName": "Mods\\@MMG\\files\\types\\mmg_types_patches.xml",
+    "Size": 31651,
+    "MD5": "5925df49ca316a50e1ed11c5af12245f"
+  },
+  {
+    "FileName": "Mods\\@MMG\\files\\types\\mmg_types_police.xml",
+    "Size": 2079,
+    "MD5": "f4600e66c808e7f5aba53086677307db"
+  },
+  {
+    "FileName": "Mods\\@MMG\\files\\types\\mmg_types_tan.xml",
+    "Size": 20745,
+    "MD5": "82319e259635693a111e133b51f4d8ae"
+  },
+  {
+    "FileName": "Mods\\@MMG\\files\\types\\mmg_types_ucp.xml",
+    "Size": 18206,
+    "MD5": "d3728d1c6291f261ed8c0bc72676aef7"
+  },
+  {
+    "FileName": "Mods\\@MMG\\keys\\MightyMoitzbert.bikey",
+    "Size": 168,
+    "MD5": "04b656cd28e499f2bd45f6019b8744d8"
+  },
+  {
+    "FileName": "Mods\\@ModularVestSystem\\meta.cpp",
+    "Size": 107,
+    "MD5": "2cdd91eb2a5c8e2bb7d33b25e6b2c5d2"
+  },
+  {
+    "FileName": "Mods\\@ModularVestSystem\\Addons\\ModularVestSystem.pbo",
+    "Size": 752647499,
+    "MD5": "72eb11ca431e15d4cc7280ef0a8c6643"
+  },
+  {
+    "FileName": "Mods\\@ModularVestSystem\\Addons\\ModularVestSystem.pbo.DCG_key.bisign",
+    "Size": 560,
+    "MD5": "1701de8118bf2be3c2d67f9e047efae1"
+  },
+  {
+    "FileName": "Mods\\@ModularVestSystem\\Keys\\DCG_key.bikey",
+    "Size": 160,
+    "MD5": "9908432467a3b0320d09075241240380"
+  },
+  {
+    "FileName": "Mods\\@MRE\\meta.cpp",
+    "Size": 91,
+    "MD5": "d30de6634cb32e0671be72e3babd687d"
+  },
+  {
+    "FileName": "Mods\\@MRE\\addons\\MRE.pbo",
+    "Size": 162426,
+    "MD5": "afa5ea24c9ef24a8a70ce104f0c301a6"
+  },
+  {
+    "FileName": "Mods\\@MRE\\addons\\MRE.pbo.gregmech42.bisign",
+    "Size": 563,
+    "MD5": "50ebaa0aa99d0769e2e8dbe7164c9d59"
+  },
+  {
+    "FileName": "Mods\\@MRE\\key\\gregmech42.bikey",
+    "Size": 163,
+    "MD5": "f2044bad8cfe972271908e038eb68c8f"
+  },
+  {
+    "FileName": "Mods\\@ParagonGearandArmor\\meta.cpp",
+    "Size": 110,
+    "MD5": "c531af424646dd09fc7a7c816bf865a3"
+  },
+  {
+    "FileName": "Mods\\@ParagonGearandArmor\\addons\\ParagonGear.pbo",
+    "Size": 2142376375,
+    "MD5": "eeba43ec9c936dad66016f5a91628586"
+  },
+  {
+    "FileName": "Mods\\@ParagonGearandArmor\\addons\\ParagonGear.pbo.Paragon.bisign",
+    "Size": 560,
+    "MD5": "b04fb8a990c0f835cc4282eca4006d98"
+  },
+  {
+    "FileName": "Mods\\@ParagonGearandArmor\\addons\\ParagonGear2.pbo",
+    "Size": 98742296,
+    "MD5": "072c70434c64e413ca1bf2ffcdb6083d"
+  },
+  {
+    "FileName": "Mods\\@ParagonGearandArmor\\addons\\ParagonGear2.pbo.Paragon.bisign",
+    "Size": 560,
+    "MD5": "1fa5604a9bfb72dfde64b98b4f162b78"
+  },
+  {
+    "FileName": "Mods\\@ParagonGearandArmor\\extra\\Class names.txt",
+    "Size": 10014,
+    "MD5": "34c276497c82309a99cbefded0ed04bc"
+  },
+  {
+    "FileName": "Mods\\@ParagonGearandArmor\\extra\\TraderConfig_Paragon.txt",
+    "Size": 18160,
+    "MD5": "bffc73de6b77d3e44e11fe6776caef96"
+  },
+  {
+    "FileName": "Mods\\@ParagonGearandArmor\\extra\\TraderPlus.txt",
+    "Size": 21784,
+    "MD5": "ae6b7e8cbef7b59c4f84732cfdbdbcf8"
+  },
+  {
+    "FileName": "Mods\\@ParagonGearandArmor\\extra\\TypesXML_Paragon.txt",
+    "Size": 191720,
+    "MD5": "39f952a630ff8612c949bb248575b432"
+  },
+  {
+    "FileName": "Mods\\@ParagonGearandArmor\\keys\\Paragon.bikey",
+    "Size": 160,
+    "MD5": "4a6603db57bcac83054b10f68a07250a"
+  },
+  {
+    "FileName": "Mods\\@ParagonStorage\\meta.cpp",
+    "Size": 103,
+    "MD5": "762f5e7335942ec9ad6af543f511c577"
+  },
+  {
+    "FileName": "Mods\\@ParagonStorage\\addons\\ParagonStorage.pbo",
+    "Size": 936544113,
+    "MD5": "fa2fb2669db141537269ffcde00ff303"
+  },
+  {
+    "FileName": "Mods\\@ParagonStorage\\addons\\ParagonStorage.pbo.Paragon.bisign",
+    "Size": 560,
+    "MD5": "9abfc6076fec78638fcfdc188e7786e8"
+  },
+  {
+    "FileName": "Mods\\@ParagonStorage\\addons\\TabletHacking.pbo",
+    "Size": 296015,
+    "MD5": "bc70ed6399246f979062f50bd7356f56"
+  },
+  {
+    "FileName": "Mods\\@ParagonStorage\\addons\\TabletHacking.pbo.Paragon.bisign",
+    "Size": 560,
+    "MD5": "cfa64b9cc8d6fb49e2206efc9f378ae2"
+  },
+  {
+    "FileName": "Mods\\@ParagonStorage\\extras\\Class names.txt",
+    "Size": 6132,
+    "MD5": "c781ee4edbaa90147591eb832f2d25e5"
+  },
+  {
+    "FileName": "Mods\\@ParagonStorage\\extras\\READ.cpp",
+    "Size": 478,
+    "MD5": "9db3e8e14705196c036c476b994f82cf"
+  },
+  {
+    "FileName": "Mods\\@ParagonStorage\\extras\\TraderConfig.txt",
+    "Size": 11669,
+    "MD5": "98e36fe6966742a18cc10974f419f94a"
+  },
+  {
+    "FileName": "Mods\\@ParagonStorage\\extras\\types.xml",
+    "Size": 85638,
+    "MD5": "110073facfc47d2dca8642d274d4a00d"
+  },
+  {
+    "FileName": "Mods\\@ParagonStorage\\keys\\Paragon.bikey",
+    "Size": 160,
+    "MD5": "4a6603db57bcac83054b10f68a07250a"
+  },
+  {
+    "FileName": "Mods\\@ParagonVendingMachines\\meta.cpp",
+    "Size": 112,
+    "MD5": "afa1958a03b89fc5113bdbad0b6ce8d6"
+  },
+  {
+    "FileName": "Mods\\@ParagonVendingMachines\\addons\\ParagonVendingMachines.pbo",
+    "Size": 880979024,
+    "MD5": "b9d2ba9dc7de32e5115b47cd5577a583"
+  },
+  {
+    "FileName": "Mods\\@ParagonVendingMachines\\addons\\ParagonVendingMachines.pbo.Paragon.bisign",
+    "Size": 560,
+    "MD5": "0e209f34380039bdedfe62a047488d5c"
+  },
+  {
+    "FileName": "Mods\\@ParagonVendingMachines\\extras\\ClassNames.txt",
+    "Size": 907,
+    "MD5": "d96c6defd83421db7e570f79a0474dae"
+  },
+  {
+    "FileName": "Mods\\@ParagonVendingMachines\\keys\\Paragon.bikey",
+    "Size": 160,
+    "MD5": "4a6603db57bcac83054b10f68a07250a"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\meta.cpp",
+    "Size": 117,
+    "MD5": "a0f2f7923fe479257069c3c7da13d692"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\mod.cpp",
+    "Size": 628,
+    "MD5": "0b22d1bfc65426f1f6a40bc8b9c3547b"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\0_RFFSHeli_Define.pbo",
+    "Size": 733,
+    "MD5": "3302836674a73fe9893b30e5e39e3404"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\0_RFFSHeli_Define.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "3149db5d249c1ea5044728dd5c9b6e2a"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Apache.pbo",
+    "Size": 43379504,
+    "MD5": "e3382d107e5576478f600482391fcfad"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Apache.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "b8c26a40ec0e983763a74ea641d52684"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Apache_Desert.pbo",
+    "Size": 15116442,
+    "MD5": "5c18821fb44e617f5014349c975b1040"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Apache_Desert.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "e377b2af1f47dcd245ab1f15f3d7f8ee"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Apache_Winter.pbo",
+    "Size": 15194101,
+    "MD5": "da989711f12a03c31ed36d98e910c8bf"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Apache_Winter.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "0b3c3e9c047212d64624b8939a53d120"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_AS350.pbo",
+    "Size": 17592985,
+    "MD5": "724a4a3522263bacb51570f0c0281077"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_AS350.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "b831bd74cb03964b734c73e4c42c683a"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Bell429.pbo",
+    "Size": 18266782,
+    "MD5": "6e1281eeca930aa46c8db26ac977377a"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Bell429.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "806842c4b078c74fa2729922a07a97dc"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Bell429_Medic.pbo",
+    "Size": 3338922,
+    "MD5": "cd08ffb3f48fb35b431633b8e86e54e9"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Bell429_Medic.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "7feeb0c2e5a05addb57a71b9f5f24c61"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Bell429_Police.pbo",
+    "Size": 3641772,
+    "MD5": "cb9159990aaad46d2ed13b27e17eef06"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Bell429_Police.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "6210b7b0cd4bb459c32dfe4acf9842f8"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Bell429_Uganda.pbo",
+    "Size": 3901557,
+    "MD5": "83b25fbd923109c4c184ecfbaba9487c"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Bell429_Uganda.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "9f6e66c34eb9ab0991ee1eff90be4a07"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Bell429_ZS.pbo",
+    "Size": 1513770,
+    "MD5": "8922d301ccd7505a90fdea1c5ace2cda"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Bell429_ZS.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "7805a6552b4c067328e5c4ec31ba9e9a"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Blackhawk.pbo",
+    "Size": 36149376,
+    "MD5": "f691a7744f2b624d2d04167532076cae"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Blackhawk.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "7122cb3775f64d507531e1cf98fe35ae"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Blackhawk_blackblackhawk.pbo",
+    "Size": 28834449,
+    "MD5": "5a3784e97a63ecfcd1aacfc41cd75da5"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Blackhawk_blackblackhawk.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "b58dd69c6bccf95f4d766e3764b6d904"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Blackhawk_Budhawk.pbo",
+    "Size": 31170966,
+    "MD5": "0f24ef0f62c0e8b77ba14a38d28fcacd"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Blackhawk_Budhawk.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "123dbbd32d905ce7269d45dd18a8252b"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Blackhawk_Woodland.pbo",
+    "Size": 27912034,
+    "MD5": "95d63b1f20fb514da7eea9e12ef65536"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Blackhawk_Woodland.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "635318e7048bdc4b4ae690905f4c3df1"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Bo105m.pbo",
+    "Size": 29404243,
+    "MD5": "05dc56dce7a6a1e4acc1272a11ccca44"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Bo105m.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "1f352d9092cb599cdb746ca0425fa160"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Bo105m_BlackCamo.pbo",
+    "Size": 759060,
+    "MD5": "b53f279317071176b3c5f22ee1eb4d92"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Bo105m_BlackCamo.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "8565259ff2bef6767dac8a0cfd42ad06"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_CH47.pbo",
+    "Size": 69901082,
+    "MD5": "2cbbc8b580f2ca0f825169030a471623"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_CH47.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "dc77d26a52f17a909ab9a1d30381bbd3"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_CH53e.pbo",
+    "Size": 44152203,
+    "MD5": "e85481dae26f908df7ba3fd75c4e6e7f"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_CH53e.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "4adc516680ecab435e57fbf7aa93db53"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Core.pbo",
+    "Size": 38884154,
+    "MD5": "b7f74a6809c872de03eb78e9e230a164"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Core.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "22a4110d56f23182f72d3731b673e6c3"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_EC135.pbo",
+    "Size": 23250797,
+    "MD5": "349ddbb493cff3a6f89183757524bf71"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_EC135.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "57bc05e12fc9096eb10a71f79758e0c1"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_EC135_BlackCamo.pbo",
+    "Size": 1226840,
+    "MD5": "654c626ea389aabfa098dc2d3c228aa4"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_EC135_BlackCamo.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "f9fbb68de27c0330ab73e94ad127960d"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Ka26.pbo",
+    "Size": 20698961,
+    "MD5": "d78e3973ce6802a9f9f700d0859d22d0"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Ka26.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "73ddbb2f5c4b8b802fb38c0dbbc75e58"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Katran.pbo",
+    "Size": 6296254,
+    "MD5": "58bc22a60ee94ef25345bf9103333a10"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Katran.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "3a7309a26ebef4b696c80360b97b45c1"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_LittleBird.pbo",
+    "Size": 14548912,
+    "MD5": "3aed982ccefcb795554e153d33c35547"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_LittleBird.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "b11d8ca14482dfd9c7e00df47cb5af4f"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_LittleBird_Camo.pbo",
+    "Size": 3096460,
+    "MD5": "b03c0ec22b47c89a3653d57f155d867b"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_LittleBird_Camo.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "8e98e57578a536768975dfe7b5de2ef9"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_LittleBird_Desert.pbo",
+    "Size": 753028,
+    "MD5": "387a65b2c5526792e2ed6db4bac14078"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_LittleBird_Desert.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "d7db85610c09e0e483cab795cfc13d6e"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Mi2.pbo",
+    "Size": 17665277,
+    "MD5": "aa65003112f1aeae82b64273fdaca9f3"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Mi2.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "27167e46e0c0251206aea120aa9ef544"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Mi2_Hornet.pbo",
+    "Size": 3289040,
+    "MD5": "2f0aa04b5c514f548cd1d9d12e92245a"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Mi2_Hornet.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "08c34e55ef677b1859d5a3c8f2a71f64"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Mi2_Military.pbo",
+    "Size": 2279888,
+    "MD5": "69496a8198bac7e1ace41faf1280f13b"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Mi2_Military.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "3f47197fba43029b2500a6c96db2b2cd"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Misc.pbo",
+    "Size": 528032,
+    "MD5": "b55d7b9fbc739d4252794c218a647ebc"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Misc.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "15162ae45f2af5e3a175ca8380470bbc"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Osprey.pbo",
+    "Size": 8206347,
+    "MD5": "176c17b4d8bfcfe35e6905f75ae67b7b"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Osprey.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "b16035d923d81b927095ad910b7b7b96"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_R22.pbo",
+    "Size": 8842612,
+    "MD5": "1e71698525e7cd4a2e7b1c35b09fe96e"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_R22.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "056bcfebcedc4c9f275e3a3a775bb59b"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_R22_Black.pbo",
+    "Size": 934445,
+    "MD5": "67abcf7a4b03dd0a2fbdd964c0f97621"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_R22_Black.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "48a808fecb54c9b0e4028e34079c650c"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_R22_Red.pbo",
+    "Size": 1081966,
+    "MD5": "2822158aaaf6de40844bede0b0f2cfae"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_R22_Red.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "f702bdca0721373b891e2f01c4aedcc1"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_S76.pbo",
+    "Size": 17267804,
+    "MD5": "76f0cb6449e754fa5ca4543f1719eca1"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_S76.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "45627bda83d18bc2825dcd16116b7940"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_S76_WoodlandCamo.pbo",
+    "Size": 5911253,
+    "MD5": "4158492087a6579746573199447b25ba"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_S76_WoodlandCamo.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "f1349efaf5acb657b8cc075433b24e1a"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_UH1H.pbo",
+    "Size": 14587429,
+    "MD5": "a1e1b5a21f4f9d6d9f7b8625ab0e605e"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_UH1H.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "2a02804a66dc4c98412cc284e28c6611"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_UH1H_Combat.pbo",
+    "Size": 14479827,
+    "MD5": "23c02a65cac6c9fd297fad95907c894d"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_UH1H_Combat.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "e3fea437920925114a39800a97d65969"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Uniform.pbo",
+    "Size": 47088660,
+    "MD5": "779e08dc0b44bd64094931aef55f7822"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Addons\\RFFSHeli_Uniform.pbo.RFFSHeliz.bisign",
+    "Size": 562,
+    "MD5": "6652e172c0d2ce064e437004ea1c8ee5"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Extras\\RedFalcon Flight System Heliz Config Settings.pdf",
+    "Size": 778521,
+    "MD5": "8bf15a6b54899f731b1251ca01f25d91"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Extras\\Types-TraderConfigs.url",
+    "Size": 174,
+    "MD5": "9ccefe581bf9e4b6d8f7515d34b741ed"
+  },
+  {
+    "FileName": "Mods\\@RedFalconFlightSystemHeliz\\Keys\\RFFSHeliz.bikey",
+    "Size": 162,
+    "MD5": "f2b77cc228c084422a09e6caa46a2b99"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\meta.cpp",
+    "Size": 92,
+    "MD5": "2a36f0ceb4227ff19c8620dee045353f"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\mod.cpp",
+    "Size": 513,
+    "MD5": "47359ddcef25b2a5d17b1e033b807a59"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\Addons\\GCGN_Guns.pbo",
+    "Size": 359346674,
+    "MD5": "745819171cc19ee058b8b9821d0b0a2c"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\Addons\\GCGN_Guns.pbo.SNAFU_Weapons_V1.bisign",
+    "Size": 569,
+    "MD5": "9dc6ecdc3ec65d360312d31c5ad6f8db"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\Addons\\Guns_01.pbo",
+    "Size": 377147263,
+    "MD5": "1ca000608b7d9dd540eb29df92b44ca1"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\Addons\\Guns_01.pbo.SNAFU_Weapons_V1.bisign",
+    "Size": 569,
+    "MD5": "29f64d18af3d422aa20779ec25eba87a"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\Addons\\SNAFU_Guns.pbo",
+    "Size": 281720882,
+    "MD5": "5276968c2f03a302275c8b7c5cef57e0"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\Addons\\SNAFU_Guns.pbo.SNAFU_Weapons_V1.bisign",
+    "Size": 569,
+    "MD5": "e2e1415941e9416e3d8815d2b1c6c122"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\Addons\\SNAFU_Guns_01.pbo",
+    "Size": 468692455,
+    "MD5": "59ba90adbb00168cacb30f2606dbf162"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\Addons\\SNAFU_Guns_01.pbo.SNAFU_Weapons_V1.bisign",
+    "Size": 569,
+    "MD5": "66b3623bc8a7de84fb47be129e080df3"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\Addons\\SNAFU_Guns_02.pbo",
+    "Size": 973864075,
+    "MD5": "27e096574e388907203ebbd9327a7100"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\Addons\\SNAFU_Guns_02.pbo.SNAFU_Weapons_V1.bisign",
+    "Size": 569,
+    "MD5": "2bc14f56288bbb2f7d31faf373e2bda6"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\Addons\\SNAFU_Guns_03.pbo",
+    "Size": 152463351,
+    "MD5": "8dbb693c7b24a559deb37966651c2e5d"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\Addons\\SNAFU_Guns_03.pbo.SNAFU_Weapons_V1.bisign",
+    "Size": 569,
+    "MD5": "1afe60a800f5599723b8686da4132216"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\Addons\\SNAFU_Guns_05.pbo",
+    "Size": 138108190,
+    "MD5": "5de4cec263113a0c1ab074b1a5f3e2be"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\Addons\\SNAFU_Guns_05.pbo.SNAFU_Weapons_V1.bisign",
+    "Size": 569,
+    "MD5": "d2e4bb233dcedfe21fb12f17b5a2fa9e"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\Addons\\SNAFU_Guns_06.pbo",
+    "Size": 395067338,
+    "MD5": "a88c64498acd58da10527ab25b73f74f"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\Addons\\SNAFU_Guns_06.pbo.SNAFU_Weapons_V1.bisign",
+    "Size": 569,
+    "MD5": "d10ac67fd1f46525b617830535d11614"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\Addons\\SNAFU_Scopes.pbo",
+    "Size": 385145520,
+    "MD5": "de7ddc4e181d0acc12dee4618c249659"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\Addons\\SNAFU_Scopes.pbo.SNAFU_Weapons_V1.bisign",
+    "Size": 569,
+    "MD5": "796dd7c512323be2da3af0c55633a6e0"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\Addons\\SNAFU_Scripts.pbo",
+    "Size": 271355,
+    "MD5": "e90b46dfc2db7fa2fb8431ba5307d2c0"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\Addons\\SNAFU_Scripts.pbo.SNAFU_Weapons_V1.bisign",
+    "Size": 569,
+    "MD5": "869ef2a8ecead0ec4542ea4f271a3972"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\Addons\\SNAFU_WW2.pbo",
+    "Size": 133870881,
+    "MD5": "f89b048afbd0fccb9039d6f6cfecb8cb"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\Addons\\SNAFU_WW2.pbo.SNAFU_Weapons_V1.bisign",
+    "Size": 569,
+    "MD5": "e00d361c2cc992a146a918a50da001ff"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\Keys\\SNAFU_Weapons_V1.bikey",
+    "Size": 169,
+    "MD5": "837df0bfc162025ce78b075af0ab4a47"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\Readme_Terms\\Mod_Terms_Of _Use_DPL_ND.pdf",
+    "Size": 170085,
+    "MD5": "f534578265cc19816b41be6c0cf69f6a"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\XML_and_Clasnames\\All-classes-and-their-attachments.json",
+    "Size": 727976,
+    "MD5": "9d78a050b14a859399085eecbff4dbc2"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\XML_and_Clasnames\\snafuspawnabletypes25percent.xml",
+    "Size": 200821,
+    "MD5": "d02486749036cc27708acc7e562deedf"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\XML_and_Clasnames\\SnafuTraderPlus.json",
+    "Size": 19547,
+    "MD5": "8ce68c49abd2432873cce50aa6217608"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\XML_and_Clasnames\\Snafu_Market.rar",
+    "Size": 6449,
+    "MD5": "b6fa829a22eb5072e55b794ab6cb4ee2"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\XML_and_Clasnames\\snafu_trader_config.xml",
+    "Size": 25542,
+    "MD5": "581dde86771a04d19bfe122f23aede6f"
+  },
+  {
+    "FileName": "Mods\\@SNAFUWeapons\\XML_and_Clasnames\\SNAFU_types.xml",
+    "Size": 228740,
+    "MD5": "5a45d1316e0684a4e45ca0f1124f4144"
+  },
+  {
+    "FileName": "Mods\\@TeddySPack\\meta.cpp",
+    "Size": 98,
+    "MD5": "66a6f8e7bdd6ed3135f5367fd372f4f6"
+  },
+  {
+    "FileName": "Mods\\@TeddySPack\\addons\\RFFSHeli_Apache_Teddy3.pbo",
+    "Size": 23570684,
+    "MD5": "6ce9bf4df0ae3d1f7931b0bcc7952d67"
+  },
+  {
+    "FileName": "Mods\\@TeddySPack\\addons\\RFFSHeli_Apache_Teddy3.pbo.MyServerPackDayz.bisign",
+    "Size": 569,
+    "MD5": "85dde09de5a70cc5e45b7916212bee17"
+  },
+  {
+    "FileName": "Mods\\@TeddySPack\\addons\\RFFSHeli_Apache_Teddy4.pbo",
+    "Size": 22515200,
+    "MD5": "67e349c088d800ed562e6afd49f67bc1"
+  },
+  {
+    "FileName": "Mods\\@TeddySPack\\addons\\RFFSHeli_Apache_Teddy4.pbo.MyServerPackDayz.bisign",
+    "Size": 569,
+    "MD5": "cbdf71291eebca7f2f71998148bbf2f7"
+  },
+  {
+    "FileName": "Mods\\@TeddySPack\\addons\\RFFSHeli_Apache_Teddy5.pbo",
+    "Size": 25696164,
+    "MD5": "a7cbb0b13d7f4251634e16d0691fa650"
+  },
+  {
+    "FileName": "Mods\\@TeddySPack\\addons\\RFFSHeli_Apache_Teddy5.pbo.MyServerPackDayz.bisign",
+    "Size": 569,
+    "MD5": "cb515c1201ede32031a2ef7ec6c3a8c0"
+  },
+  {
+    "FileName": "Mods\\@TeddySPack\\addons\\RFFSHeli_Apache_Teddy6.pbo",
+    "Size": 17742843,
+    "MD5": "f54976d5ecb2a8189ec05787f4dd6a6b"
+  },
+  {
+    "FileName": "Mods\\@TeddySPack\\addons\\RFFSHeli_Apache_Teddy6.pbo.MyServerPackDayz.bisign",
+    "Size": 569,
+    "MD5": "242c37f2b42a2c31abe71fdd511d732d"
+  },
+  {
+    "FileName": "Mods\\@TeddySPack\\addons\\RFFSHeli_Apache_Teddy7.pbo",
+    "Size": 23619468,
+    "MD5": "59a95fab33276468ec7dabd6b7efcfe9"
+  },
+  {
+    "FileName": "Mods\\@TeddySPack\\addons\\RFFSHeli_Apache_Teddy7.pbo.MyServerPackDayz.bisign",
+    "Size": 569,
+    "MD5": "f2cf614d7f4a1c98c1703c1ab89063e0"
+  },
+  {
+    "FileName": "Mods\\@TeddySPack\\addons\\RFFSHeli_Apache_Teddy8.pbo",
+    "Size": 15935610,
+    "MD5": "83238844b1c621796a88e6d64364453a"
+  },
+  {
+    "FileName": "Mods\\@TeddySPack\\addons\\RFFSHeli_Apache_Teddy8.pbo.MyServerPackDayz.bisign",
+    "Size": 569,
+    "MD5": "d0d61bd6faa2ee9c04f28463d1a97398"
+  },
+  {
+    "FileName": "Mods\\@TeddySPack\\addons\\RFFSHeli_Apache_Teddy9.pbo",
+    "Size": 14582779,
+    "MD5": "d69a0d8eee759ff414bd9ec066386a30"
+  },
+  {
+    "FileName": "Mods\\@TeddySPack\\addons\\RFFSHeli_Apache_Teddy9.pbo.MyServerPackDayz.bisign",
+    "Size": 569,
+    "MD5": "dfe26012d855f948c13cd6a1bc203074"
+  },
+  {
+    "FileName": "Mods\\@TeddySPack\\addons\\RFFSHeli_Bell429_Teddy.pbo",
+    "Size": 7490314,
+    "MD5": "f7ee00697d3da215a93d0e8fb97a8533"
+  },
+  {
+    "FileName": "Mods\\@TeddySPack\\addons\\RFFSHeli_Bell429_Teddy.pbo.MyServerPackDayz.bisign",
+    "Size": 569,
+    "MD5": "d228baa32680f24f0459db33d49d1896"
+  },
+  {
+    "FileName": "Mods\\@TeddySPack\\addons\\RFFSHeli_Bell429_Teddy1.pbo",
+    "Size": 8002711,
+    "MD5": "d65fd63b43d43078d65892c61cb3b4a5"
+  },
+  {
+    "FileName": "Mods\\@TeddySPack\\addons\\RFFSHeli_Bell429_Teddy1.pbo.MyServerPackDayz.bisign",
+    "Size": 569,
+    "MD5": "af35315ba8db2587211ddb1aa954d8d3"
+  },
+  {
+    "FileName": "Mods\\@TeddySPack\\addons\\RFFSHeli_Bell429_TeddyHyperBeast.pbo",
+    "Size": 10302266,
+    "MD5": "cbca75beed7e35916a13b6be712db6b0"
+  },
+  {
+    "FileName": "Mods\\@TeddySPack\\addons\\RFFSHeli_Bell429_TeddyHyperBeast.pbo.MyServerPackDayz.bisign",
+    "Size": 569,
+    "MD5": "f34980bfbf020a1752dc3d08d7e1aad1"
+  },
+  {
+    "FileName": "Mods\\@TeddySPack\\addons\\RFFSHeli_CH47_Teddy1.pbo",
+    "Size": 11638041,
+    "MD5": "e5760c6a7ff70ffe2af10bce059db3e0"
+  },
+  {
+    "FileName": "Mods\\@TeddySPack\\addons\\RFFSHeli_CH47_Teddy1.pbo.MyServerPackDayz.bisign",
+    "Size": 569,
+    "MD5": "96d9d874b50a575d7652129fe19b0fe7"
+  },
+  {
+    "FileName": "Mods\\@TeddySPack\\addons\\RFFSHeli_LittleBird_Teddy10.pbo",
+    "Size": 4886240,
+    "MD5": "a192b714621e7b09f935a706f1460c1a"
+  },
+  {
+    "FileName": "Mods\\@TeddySPack\\addons\\RFFSHeli_LittleBird_Teddy10.pbo.MyServerPackDayz.bisign",
+    "Size": 569,
+    "MD5": "5dc758fa89283c15c6a89b58c2cb92f2"
+  },
+  {
+    "FileName": "Mods\\@TeddySPack\\key\\MyServerPackDayz.bikey",
+    "Size": 169,
+    "MD5": "cb7c8bf4e03b842627b2b5d8d586934d"
+  },
+  {
+    "FileName": "Mods\\@TeddysWeaponPack\\meta.cpp",
+    "Size": 104,
+    "MD5": "6355b06b71c622921e6670cb8f806183"
+  },
+  {
+    "FileName": "Mods\\@TeddysWeaponPack\\addons\\Cosmetics.pbo",
+    "Size": 34650801,
+    "MD5": "9b715063b418e36c4fc179ed5d0e47be"
+  },
+  {
+    "FileName": "Mods\\@TeddysWeaponPack\\addons\\Cosmetics.pbo.TeddysammlerV2.bisign",
+    "Size": 567,
+    "MD5": "e2c67df3a4f1b136db28bff5135697e5"
+  },
+  {
+    "FileName": "Mods\\@TeddysWeaponPack\\addons\\Covid.pbo",
+    "Size": 44121276,
+    "MD5": "8ac694331f73b5e654796b38dfa94c26"
+  },
+  {
+    "FileName": "Mods\\@TeddysWeaponPack\\addons\\Covid.pbo.TeddysammlerV2.bisign",
+    "Size": 567,
+    "MD5": "62102f3d033a017dfe881e4d7d624e09"
+  },
+  {
+    "FileName": "Mods\\@TeddysWeaponPack\\addons\\Grenades.pbo",
+    "Size": 65668531,
+    "MD5": "e1ac8f322535bb8dc61cf9defd1d5d95"
+  },
+  {
+    "FileName": "Mods\\@TeddysWeaponPack\\addons\\Grenades.pbo.TeddysammlerV2.bisign",
+    "Size": 567,
+    "MD5": "54b5fc36eac49a3df8a5e484472c96c5"
+  },
+  {
+    "FileName": "Mods\\@TeddysWeaponPack\\addons\\Guns.pbo",
+    "Size": 819859024,
+    "MD5": "599ff9c3d9a4c58e03cb3cdbc6a00f45"
+  },
+  {
+    "FileName": "Mods\\@TeddysWeaponPack\\addons\\Guns.pbo.TeddysammlerV2.bisign",
+    "Size": 567,
+    "MD5": "8b8d12b7dd21f5ecfc65f614956e6abc"
+  },
+  {
+    "FileName": "Mods\\@TeddysWeaponPack\\addons\\Halloween.pbo",
+    "Size": 69095858,
+    "MD5": "86ab61e3a7c82d3542c3595baebf855f"
+  },
+  {
+    "FileName": "Mods\\@TeddysWeaponPack\\addons\\Halloween.pbo.TeddysammlerV2.bisign",
+    "Size": 567,
+    "MD5": "1bf6a6aa833dc6c390fa5cb3820599de"
+  },
+  {
+    "FileName": "Mods\\@TeddysWeaponPack\\addons\\MachineGuns.pbo",
+    "Size": 1193677004,
+    "MD5": "4ae12f3f597397b662c9d781dbd07e39"
+  },
+  {
+    "FileName": "Mods\\@TeddysWeaponPack\\addons\\MachineGuns.pbo.TeddysammlerV2.bisign",
+    "Size": 567,
+    "MD5": "daf986ce1db3133fbfd71c58fc13d893"
+  },
+  {
+    "FileName": "Mods\\@TeddysWeaponPack\\addons\\Optics.pbo",
+    "Size": 111029275,
+    "MD5": "3e6e13e3f05c46b91e096e8c5ba54da4"
+  },
+  {
+    "FileName": "Mods\\@TeddysWeaponPack\\addons\\Optics.pbo.TeddysammlerV2.bisign",
+    "Size": 567,
+    "MD5": "614908af9cbfbecd529cf6b00a69dfe2"
+  },
+  {
+    "FileName": "Mods\\@TeddysWeaponPack\\addons\\Shotguns.pbo",
+    "Size": 171857598,
+    "MD5": "559b1b41fdb5bfd42c84ad89d58e7473"
+  },
+  {
+    "FileName": "Mods\\@TeddysWeaponPack\\addons\\Shotguns.pbo.TeddysammlerV2.bisign",
+    "Size": 567,
+    "MD5": "8ff37e55081796772104a5e3628a9613"
+  },
+  {
+    "FileName": "Mods\\@TeddysWeaponPack\\addons\\Sniper.pbo",
+    "Size": 453801174,
+    "MD5": "11edb93499bc7506f447e76bae588ba0"
+  },
+  {
+    "FileName": "Mods\\@TeddysWeaponPack\\addons\\Sniper.pbo.TeddysammlerV2.bisign",
+    "Size": 567,
+    "MD5": "304e874983752578467b4901a202c719"
+  },
+  {
+    "FileName": "Mods\\@TeddysWeaponPack\\Files\\Complete xml (all items).xml",
+    "Size": 396475,
+    "MD5": "ddf07499102853eb5c708d1bc4416f17"
+  },
+  {
+    "FileName": "Mods\\@TeddysWeaponPack\\Files\\credits.txt",
+    "Size": 458,
+    "MD5": "d4fe26cb6802671b58788971b4d55a67"
+  },
+  {
+    "FileName": "Mods\\@TeddysWeaponPack\\Files\\Item xml update (only new items).xml",
+    "Size": 6958,
+    "MD5": "9a4674017b76742604163f1cb160ce5d"
+  },
+  {
+    "FileName": "Mods\\@TeddysWeaponPack\\Files\\TeddyTraderConfig.txt",
+    "Size": 30876,
+    "MD5": "985221d267d0dd28636d0c16b2194c03"
+  },
+  {
+    "FileName": "Mods\\@TeddysWeaponPack\\keys\\TeddysammlerV2.bikey",
+    "Size": 167,
+    "MD5": "864e78288918289ee67f121a8cfdcdac"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\!No, the configuration isn't here",
+    "Size": 0,
+    "MD5": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\Configs of mod are in profiles folder",
+    "Size": 0,
+    "MD5": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\meta.cpp",
+    "Size": 101,
+    "MD5": "5ba91cf7f37504d4ba453ca059cae5d9"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\mod.cpp",
+    "Size": 576,
+    "MD5": "c5c1f1fe284b11b7315be189abca16cb"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\addons\\assets.pbo",
+    "Size": 83582,
+    "MD5": "687b723d97f3d9b80705706e4bbccf98"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\addons\\assets.pbo.VPP.bisign",
+    "Size": 556,
+    "MD5": "ef5bd3092b8fca762d0524dca8cf2721"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\addons\\VPPAdminTools.pbo",
+    "Size": 2018866,
+    "MD5": "a2effe52a9521b2b7858457b2dbe5a71"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\addons\\VPPAdminTools.pbo.VPP.bisign",
+    "Size": 556,
+    "MD5": "d2edc4ebe9aa2befe8c2f4282eed026c"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\addons\\VPPStaticItems.pbo",
+    "Size": 160409,
+    "MD5": "171865108f3f06e539fd12cfe36d8852"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\addons\\VPPStaticItems.pbo.VPP.bisign",
+    "Size": 556,
+    "MD5": "f2b61956209ffdf83972fed21d542607"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\keys\\VPP.bikey",
+    "Size": 156,
+    "MD5": "70477dba4673b075c3665fd994f2ec7a"
+  }
+]
